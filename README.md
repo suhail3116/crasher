@@ -28,7 +28,7 @@
   <a href="mailto:annuss2804@gmail.com">
     <img src="https://img.shields.io/badge/Email-annuss2804%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=suhail3116&style=flat-square&color=70a5fd" alt="profile views"/>
@@ -43,19 +43,19 @@
 public class MuhammedSuhail {
 
     private String name             = "M Muhammed Suhail";
-    private String location         = "YOUR_LOCATION";
+    private String location         = "COIMBATORE";
     private String degree           = "B.E. Computer Science Engineering (Pursuing)";
     private String priorDegree      = "Diploma in Computer Science Engineering (Completed)";
 
     private String[] stack = {
-        "Java", "Python", "C", "C++", "HTML", "CSS", "JavaScript"
+        "Java", "Python", "C", "C++", "HTML", "CSS", "JavaScript", "MySQL"
     };
 
     private String[] currentlyLearning = {
         "Azure Fundamentals", "Data Structures & Algorithms", "Full-Stack Development"
     };
 
-    private String[] languagesSpoken = { "English", "Tamil (Native)" };
+    private String[] languagesSpoken = { "English", "Tamil (Native)", "Malayalam" };
 
     private String funFact =
         "Led a cross-functional student team as Team Leader, " +
@@ -185,9 +185,9 @@ public class MuhammedSuhail {
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.E., Computer Science Engineering | YOUR_COLLEGE_NAME | Currently Pursuing | — |
-| Diploma, Computer Science Engineering | YOUR_COLLEGE_NAME | Completed | — |
-| Secondary Education (10th Grade) | YOUR_SCHOOL_NAME | — | — |
+| B.E., Computer Science Engineering | DHAANISH AHMED INSTITUTE OF TECHNOLOGY | Currently Pursuing | — |
+| Diploma, Computer Science Engineering | GOVERNMENT POLYTECNIC COLLEGE COIMBATORE | Completed | 71% |
+| Secondary Education (10th Grade) | K. S. C. GOVT SCHOOL TIRUPPUR | Completed | - |
 
 </div>
 
