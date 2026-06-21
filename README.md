@@ -24,6 +24,7 @@
 
 <!-- ABOUT ME — PHOTO BANNER + CODE BLOCK -->
 <img align="right" width="150" src="https://avatars.githubusercontent.com/u/264096411?s=400&u=d4b1508f8560610b072fadf993280ab672423b02&v=4" alt="M Muhammed Suhail" style="border-radius: 50%;"/>
+
 ```java
 public class MuhammedSuhail {
 
