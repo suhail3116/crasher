@@ -1,32 +1,17 @@
 # crasher
-<!--
-  README.md — M Muhammed Suhail's GitHub Profile
-  ============================================================
-  BEFORE PUBLISHING, find & replace these placeholders:
-    YOUR_GITHUB_USERNAME   -> your GitHub handle (not present in resume)
-    YOUR_LINKEDIN_URL      -> your LinkedIn profile link
-    YOUR_LOCATION          -> city / state you want shown publicly
-    YOUR_COLLEGE_NAME      -> name of your engineering college
-    YOUR_SCHOOL_NAME       -> name of your 10th-grade school
-  Your phone number was intentionally left out of this README —
-  publishing a phone number on a public GitHub profile is a
-  privacy/security risk. Email is kept since it was already
-  meant to be public-facing on your resume.
--->
 
-<!-- 1. HERO BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M+Muhammed+Suhail&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer+Science+Engineering+Student+%7C+Aspiring+Microsoft+Intern&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
 <!-- 2. TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full-Stack+Web+Developer;Team+Leader+%40+Agna+Private+Limited;Aspiring+Microsoft+Intern" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full-Stack+Web+Developer;Team+Leader+%40+Agna+Private+Limited;Aspiring+Claude+Intern;Editor;Photographer;E-Commerce+Expert;Problem+Analyser" />
 </p>
 
 <p align="center">
-  <a href="mailto:annuss2804@gmail.com">
-    <img src="https://img.shields.io/badge/Email-annuss2804%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <a href="mailto:cse23500492@gmail.com">
+    <img src="https://img.shields.io/badge/Email-cse23500492%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -48,7 +33,7 @@ public class MuhammedSuhail {
     private String priorDegree      = "Diploma in Computer Science Engineering (Completed)";
 
     private String[] stack = {
-        "Java", "Python", "C", "C++", "HTML", "CSS", "JavaScript", "MySQL"
+        "Java", "Python", "C", "C++", "HTML", "CSS", "JavaScript", "MySQL", "React"
     };
 
     private String[] currentlyLearning = {
@@ -58,7 +43,7 @@ public class MuhammedSuhail {
     private String[] languagesSpoken = { "English", "Tamil (Native)", "Malayalam" };
 
     private String funFact =
-        "Led a cross-functional student team as Team Leader, " +
+        "Lead a cross-functional student team as Team Leader, " +
         "delivering a client project during an industry internship.";
 
     public String motto() {
@@ -82,13 +67,15 @@ public class MuhammedSuhail {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 **Data & Formats**
 <p align="left">
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSV-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 **Microsoft Ecosystem & Cloud**
