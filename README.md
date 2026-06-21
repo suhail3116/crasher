@@ -34,7 +34,7 @@ public class MuhammedSuhail {
     private String priorDegree      = "Diploma in Computer Science Engineering (Completed)";
 
     private String[] stack = {
-        "Java", "Python", "C", "C++", "HTML", "CSS", "JavaScript", "MySQL", "React"
+        "Java", "Python", "C", "C++", "HTML", "CSS", "JavaScript", "MySQL", "React", "ThreeJS"
     };
 
     private String[] buildingWith = {
