@@ -1,12 +1,12 @@
 # crasher
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M+Muhammed+Suhail&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer+Science+Engineering+Student+%7C+Building+with+Claude&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:D97757&height=180&section=header&text=M+Muhammed+Suhail&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer+Science+Engineering+Student+%7C+Building+with+Claude&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
-<!-- 2. TYPING HEADER -->
+<!-- TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full-Stack+%26+AI%2FML+Builder;Team+Leader+%40+Agna+Private+Limited;Aspiring+Claude+Corps+Fellow;Builds+Real+Tools+for+Real+Communities;Content+Creator+%26+Educator;Problem+Analyser" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full-Stack+%26+AI%2FML+Builder;Team+Leader+%40+Agna+Private+Limited;Aspiring+Claude+Corps+Fellow;Builds+Real+Tools+for+Real+Communities;Content+Creator+%26+Educator" />
 </p>
 
 <p align="center">
@@ -16,13 +16,14 @@
   <a href="https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=suhail3116&style=flat-square&color=70a5fd" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-komarev-D97757?style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=suhail3116&style=flat-square&color=d97757&label=" alt="profile views" height="20"/>
 </p>
 
 <br/>
 
-<!-- 3. CODE-BLOCK ABOUT ME -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- ABOUT ME — PHOTO BANNER + CODE BLOCK -->
+<img align="right" width="380" src="assets/profile-banner.jpg" alt="M Muhammed Suhail"/>
 
 ```java
 public class MuhammedSuhail {
@@ -46,7 +47,7 @@ public class MuhammedSuhail {
     private String funFact =
         "Led a cross-functional student team as Team Leader during an industry " +
         "internship, then went on to single-handedly design, build, and ship " +
-        "EV-CAST -- a live electronic voting system for a 700-member organization.";
+        "SecureVote -- a live electronic voting system for a 700-member organization.";
 
     public String motto() {
         return "Ship something real, then teach someone else to run it.";
@@ -58,7 +59,7 @@ public class MuhammedSuhail {
 
 ---
 
-### 🛠️ Tech Stack
+## 🟧 Tech Stack
 
 **Languages**
 <p align="left">
@@ -106,28 +107,7 @@ public class MuhammedSuhail {
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/suhail3116">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhail3116&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/suhail3116">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail3116&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suhail3116&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhail3116&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
-### 🤝 Building With Claude
+## 🟧 Building With Claude
 
 > Real projects, built end-to-end with Claude as a thinking and shipping partner — not toy demos.
 
@@ -181,13 +161,13 @@ A full-stack data product — venue-specific player stats, pitch-type modifiers,
 
 ---
 
-### 🗂️ Additional Projects
+## 🟧 Additional Projects
 
 <div align="center">
 
 | Project | Stack | What It Does |
 |---|---|---|
-| **AgriGuard** | HTML/CSS/JS, Tailwind, Three.js, Open-Meteo API | 15-page farmer-support platform: 40+ crop database, AI-styled disease detection (photo upload + diagnosis), fertilizer/N-P-K planning guide, water requirement calculator, live weather forecasting, market price tracker, profit predictor, and a government subsidy connector (PM-KISAN, Fasal Bima Yojana, Agri-Infra Fund) |
+| **AgriGuard** | HTML/CSS/JS, Tailwind, Three.js, Open-Meteo API | 15-page farmer-support platform: 40+ crop database, AI-styled disease detection, fertilizer/N-P-K planning guide, water calculator, live weather forecasting, market price tracker, profit predictor, and a government subsidy connector (PM-KISAN, Fasal Bima Yojana, Agri-Infra Fund) |
 | **BizConnect** | HTML/CSS/JS | Peer-to-peer business marketplace with admin-approved registration, product listings, buyer–seller chat, buy requests, and full order management across buyer, seller, and admin views |
 | **Chemify** | HTML/CSS/JS, SVG | Gamified chemistry learning site — periodic table explorer and interactive lessons, built to make chemistry click without a textbook |
 | **DocSum** | HTML/CSS/JS, Bootstrap, Three.js | Document workspace dashboard — drag-and-drop file queue, submission history, and persistent local records behind a dark glassmorphism UI |
@@ -197,7 +177,7 @@ A full-stack data product — venue-specific player stats, pitch-type modifiers,
 
 ---
 
-### 💼 Work Experience
+## 🟧 Work Experience
 
 <details>
 <summary><b>🏢 Team Leader — Agna Private Limited, Coimbatore (Industry Internship)</b></summary>
@@ -214,30 +194,16 @@ A full-stack data product — venue-specific player stats, pitch-type modifiers,
 
 ---
 
-### 🚀 Hackathons & Rapid Builds
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **Smart India Hackathon (SIH)** | Full-Stack, Rapid Prototyping | Competed at India's largest national hackathon, scoping and building a solution for a real government/industry problem statement under time pressure |
-| **Hackathon 360 (KPR)** | HTML, CSS, JavaScript, JSON, XML | Designed & shipped a functional web app prototype solving a real user problem within a strict 24-hour window |
-| **Office Task Site** | HTML, CSS, JavaScript, JSON | Web-based office task management tool with structured JSON data handling for persistent task state |
-
-</div>
-
----
-
-### 🏆 Achievements
+## 🟧 Achievements & Competitions
 
 <div align="center">
 
 | | Achievement | Details |
 |---|---|---|
-| 🗳️ | Shipped EV-CAST / SecureVote | Designed and deployed a real-time electronic voting system used by a 700-member organization |
+| 🗳️ | Shipped SecureVote (EV-CAST) | Designed and deployed a real-time electronic voting system used by a 700-member organization |
 | 🩺 | Built PCOD Care AI | Designed a full hormonal-health platform bridging cycle tracking with real Indian government healthcare scheme access |
 | 🌾 | Shipped AgriGuard | 15-page agri-tech platform spanning crop data, disease detection, weather, market prices, and government subsidies |
-| 🏆 | Smart India Hackathon (SIH) | Competed at national level, applying full-stack skills to a real government/industry problem statement |
+| 🏆 | Smart India Hackathon (SIH) | Competed at national level, scoping and building a solution for a real government/industry problem statement under time pressure |
 | ⚡ | Hackathon 360 (KPR) | Built a complete web app prototype in 24 hours; led front-end development and JSON/XML data logic |
 | 👨‍💼 | Team Leader, Industry Internship | Led a student team through a full project delivery cycle at Agna Private Limited, Coimbatore |
 | 🎓 | Diploma, Computer Science Engineering | Completed polytechnic-level diploma, building a strong CS fundamentals base |
@@ -246,7 +212,7 @@ A full-stack data product — venue-specific player stats, pitch-type modifiers,
 
 ---
 
-### 🎓 Education
+## 🟧 Education
 
 <div align="center">
 
@@ -258,7 +224,7 @@ A full-stack data product — venue-specific player stats, pitch-type modifiers,
 
 </div>
 
-### 📚 Currently Learning
+## 🟧 Currently Learning
 
 ```
 🤖  AI Fluency & Claude 101   → Anthropic foundations coursework
@@ -269,5 +235,5 @@ A full-stack data product — venue-specific player stats, pitch-type modifiers,
 
 <!-- FOOTER WAVE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:1A1A1A&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
