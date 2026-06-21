@@ -1,12 +1,12 @@
 # crasher
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M+Muhammed+Suhail&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer+Science+Engineering+Student+%7C+Aspiring+Microsoft+Intern&descAlignY=62&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=M+Muhammed+Suhail&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer+Science+Engineering+Student+%7C+Building+with+Claude&descAlignY=62&descSize=16" width="100%"/>
 </p>
 
 <!-- 2. TYPING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full-Stack+Web+Developer;Team+Leader+%40+Agna+Private+Limited;Aspiring+Claude+Intern;Editor;Photographer;E-Commerce+Expert;Problem+Analyser" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full-Stack+%26+AI%2FML+Builder;Team+Leader+%40+Agna+Private+Limited;Aspiring+Claude+Corps+Fellow;Builds+Real+Tools+for+Real+Communities;Content+Creator+%26+Educator;Problem+Analyser" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 public class MuhammedSuhail {
 
     private String name             = "M Muhammed Suhail";
-    private String location         = "COIMBATORE";
+    private String location         = "COIMBATORE, TAMIL NADU, INDIA";
     private String degree           = "B.E. Computer Science Engineering (Pursuing)";
     private String priorDegree      = "Diploma in Computer Science Engineering (Completed)";
 
@@ -36,18 +36,20 @@ public class MuhammedSuhail {
         "Java", "Python", "C", "C++", "HTML", "CSS", "JavaScript", "MySQL", "React"
     };
 
-    private String[] currentlyLearning = {
-        "Azure Fundamentals", "Data Structures & Algorithms", "Full-Stack Development"
+    private String[] buildingWith = {
+        "Claude / LLM-assisted development", "Supabase + Realtime",
+        "spaCy", "HuggingFace Transformers", "FastAPI"
     };
 
     private String[] languagesSpoken = { "English", "Tamil (Native)", "Malayalam" };
 
     private String funFact =
-        "Lead a cross-functional student team as Team Leader, " +
-        "delivering a client project during an industry internship.";
+        "Led a cross-functional student team as Team Leader during an industry " +
+        "internship, then went on to single-handedly design, build, and ship " +
+        "EV-CAST -- a live electronic voting system for a 700-member organization.";
 
     public String motto() {
-        return "Build scalable, user-centred solutions — one hackathon at a time.";
+        return "Ship something real, then teach someone else to run it.";
     }
 }
 ```
@@ -71,23 +73,27 @@ public class MuhammedSuhail {
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-**Data & Formats**
+**AI / ML & NLP**
 <p align="left">
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+</p>
+
+**Backend & Data**
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSV-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-**Microsoft Ecosystem & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 **Tools & Workflow**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 </p>
 
@@ -114,6 +120,48 @@ public class MuhammedSuhail {
 
 ---
 
+### 🤝 Building With Claude
+
+> Real projects, built end-to-end with Claude as a thinking and shipping partner — not toy demos.
+
+<details open>
+<summary><b>🗳️ EV-CAST — Electronic Voting System for a 700-Member Organization</b></summary>
+<br/>
+
+A production voting platform, taken from a local-storage prototype to a real deployed system:
+- Migrated state management to a **Supabase backend with Realtime sync**, so results and ballots update live across every connected device.
+- Built **role-based access** (voter / staff / admin) so non-technical staff could run an election without engineering support.
+- Designed **multi-position ballot structures** with candidate photos, built to hold up under real voter load — not just a demo.
+- The kind of project that had to actually work for real people on a real day, with a non-technical org running it after I stepped back.
+
+</details>
+
+<details>
+<summary><b>🌉 The Kanyakumari Quill Bridge — Tourism Infrastructure Concept</b></summary>
+<br/>
+
+A single-pylon suspension bridge concept connecting Kanyakumari mainland to Vivekananda Rock — taken from idea to a **Three.js interactive 3D model** and a full **pitch deck**, to make an ambitious infrastructure idea tangible and explainable to a non-technical audience.
+
+</details>
+
+<details>
+<summary><b>🧠 AI/NLP Document Extraction Exploration</b></summary>
+<br/>
+
+Hands-on work with **spaCy**, **HuggingFace Transformers**, and **NER pipelines**, deployed via **FastAPI** — learning to ship practical AI tooling, not just call an API.
+
+</details>
+
+<details>
+<summary><b>🏏 IPL 2026 Stats & Prediction Platform</b></summary>
+<br/>
+
+A full-stack data product — venue-specific player stats, pitch-type modifiers, head-to-head matrices — built to turn raw match data into something a casual fan could actually use and understand.
+
+</details>
+
+---
+
 ### 💼 Work Experience
 
 <details>
@@ -122,28 +170,26 @@ public class MuhammedSuhail {
 
 > `HTML` `CSS` `JavaScript` `JSON` `Git` `SDLC` `Agile Basics`
 
-- Led a cross-functional student team delivering a software project for an industry client, owning task delegation and timelines.
-- Coordinated team communication and resolved technical blockers to keep milestones on schedule.
-- Gained hands-on exposure to real-world SDLC workflows, client requirements, and collaborative problem-solving.
+- Led a cross-functional student team delivering a software project for an industry client — owned scoping, task delegation, and timelines.
+- Translated client requirements into clear, sprint-sized tasks for teammates with mixed technical backgrounds.
+- Resolved technical blockers and kept communication flowing between the team and the client to keep milestones on schedule.
 - Completed the engagement with a One-Month Industry Internship Certificate (Team Leader role).
 
 </details>
 
 ---
 
-### 🚀 Featured Projects & Hackathons
+### 🚀 Hackathons & Rapid Builds
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **Office Task Site** | HTML, CSS, JavaScript, JSON | Web-based office task management tool; structured JSON data handling for persistent task state tracking |
-| **Hackathon 360 (KPR)** | HTML, CSS, JavaScript, JSON, XML | Designed & built a functional web app prototype solving a real user problem within a strict 24-hour window |
-| **Smart India Hackathon (SIH)** | Full-Stack, Rapid Prototyping | Competed at India's largest national hackathon, building a solution for a real government/industry challenge under time constraints |
+| **Smart India Hackathon (SIH)** | Full-Stack, Rapid Prototyping | Competed at India's largest national hackathon, scoping and building a solution for a real government/industry problem statement under time pressure |
+| **Hackathon 360 (KPR)** | HTML, CSS, JavaScript, JSON, XML | Designed & shipped a functional web app prototype solving a real user problem within a strict 24-hour window |
+| **Office Task Site** | HTML, CSS, JavaScript, JSON | Web-based office task management tool with structured JSON data handling for persistent task state |
 
 </div>
-
-> 📌 *Repo links omitted — add your GitHub repo URLs here once published.*
 
 ---
 
@@ -153,8 +199,9 @@ public class MuhammedSuhail {
 
 | | Achievement | Details |
 |---|---|---|
+| 🗳️ | Shipped EV-CAST | Designed and deployed a real-time electronic voting system used by a 700-member organization |
 | 🏆 | Smart India Hackathon (SIH) | Competed at national level, applying full-stack skills to a real government/industry problem statement |
-| ⚡ | Hackathon 360 (KPR) | Built a complete web app prototype in 24 hours; led front-end development and integrated JSON/XML data logic |
+| ⚡ | Hackathon 360 (KPR) | Built a complete web app prototype in 24 hours; led front-end development and JSON/XML data logic |
 | 👨‍💼 | Team Leader, Industry Internship | Led a student team through a full project delivery cycle at Agna Private Limited, Coimbatore |
 | 🎓 | Diploma, Computer Science Engineering | Completed polytechnic-level diploma, building a strong CS fundamentals base |
 
@@ -177,10 +224,10 @@ public class MuhammedSuhail {
 ### 📚 Currently Learning
 
 ```
-☁️  Azure              → Fundamentals, Cloud Architecture
-🧠  DSA                → Advanced Problem Solving, Competitive Programming
-🌐  Full-Stack Dev     → REST APIs, Modern JS Workflows
-🔧  DevOps Basics      → Git Workflows, CI/CD Fundamentals
+🤖  AI Fluency & Claude 101   → Anthropic foundations coursework
+🧠  NLP & LLM Tooling         → spaCy, HuggingFace, FastAPI, NER pipelines
+🌐  Full-Stack + Realtime     → Supabase, REST APIs, Realtime sync
+🔧  DSA                       → Advanced Problem Solving, Competitive Programming
 ```
 
 <!-- FOOTER WAVE -->
