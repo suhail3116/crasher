@@ -23,7 +23,7 @@
 <br/>
 
 <!-- ABOUT ME — PHOTO BANNER + CODE BLOCK -->
-<img align="right" width="380" src="assets/profile-banner.jpg" alt="M Muhammed Suhail"/>
+<img align="right" width="380" src="https://avatars.githubusercontent.com/u/264096411?v=4&size=64" alt="M Muhammed Suhail"/>
 
 ```java
 public class MuhammedSuhail {
