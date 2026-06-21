@@ -89,6 +89,13 @@ public class MuhammedSuhail {
   <img src="https://img.shields.io/badge/CSV-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 </p>
 
+**Frontend & 3D**
+<p align="left">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+</p>
+
 **Tools & Workflow**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -125,14 +132,26 @@ public class MuhammedSuhail {
 > Real projects, built end-to-end with Claude as a thinking and shipping partner — not toy demos.
 
 <details open>
-<summary><b>🗳️ EV-CAST — Electronic Voting System for a 700-Member Organization</b></summary>
+<summary><b>🗳️ SecureVote (EV-CAST) — Electronic Voting System for a 700-Member Organization</b></summary>
 <br/>
 
-A production voting platform, taken from a local-storage prototype to a real deployed system:
-- Migrated state management to a **Supabase backend with Realtime sync**, so results and ballots update live across every connected device.
-- Built **role-based access** (voter / staff / admin) so non-technical staff could run an election without engineering support.
-- Designed **multi-position ballot structures** with candidate photos, built to hold up under real voter load — not just a demo.
+A production election portal, taken from a local-storage prototype to a real deployed system used for an actual vote — not a demo:
+- Issued and managed **700 verified member credentials** (unique ID + password per voter), with an admin dashboard tracking voter participation in real time.
+- Migrated state management toward a **Supabase backend with Realtime sync**, so results and ballots update live across every connected device.
+- Built **role-based access** (voter / admin) with position-based ballots, candidate cards, a "you've already voted" safeguard, and exportable results — so non-technical staff could run the election without engineering support.
 - The kind of project that had to actually work for real people on a real day, with a non-technical org running it after I stepped back.
+
+</details>
+
+<details>
+<summary><b>🩺 PCOD Care AI — Hormonal Health Platform</b></summary>
+<br/>
+
+A women's health companion app for managing PCOD/PCOS, built around the idea that healthcare tools should meet people where they are:
+- **Cycle tracking & symptom severity scoring** — logs periods, computes cycle phase (follicular / ovulation / luteal), and turns daily check-ins into a clear severity read-out instead of a wall of medical jargon.
+- **AI-assistant-styled guidance** — nutrition tips, a movement/yoga protocol, and water tracking, all tailored to where someone is in their cycle.
+- **Healthcare access bridge** — a clinic/hospital finder for Coimbatore and Chennai, paired with plain-language explainers of Indian government health schemes (Ayushman Bharat / PM-JAY, NHM free diagnostics, Pradhan Mantri Matru Vandana Yojana) so people actually know what they're entitled to.
+- Built because PCOD management in India is split across hospital visits, WhatsApp forwards, and guesswork — this puts it in one place.
 
 </details>
 
@@ -159,6 +178,22 @@ Hands-on work with **spaCy**, **HuggingFace Transformers**, and **NER pipelines*
 A full-stack data product — venue-specific player stats, pitch-type modifiers, head-to-head matrices — built to turn raw match data into something a casual fan could actually use and understand.
 
 </details>
+
+---
+
+### 🗂️ Additional Projects
+
+<div align="center">
+
+| Project | Stack | What It Does |
+|---|---|---|
+| **AgriGuard** | HTML/CSS/JS, Tailwind, Three.js, Open-Meteo API | 15-page farmer-support platform: 40+ crop database, AI-styled disease detection (photo upload + diagnosis), fertilizer/N-P-K planning guide, water requirement calculator, live weather forecasting, market price tracker, profit predictor, and a government subsidy connector (PM-KISAN, Fasal Bima Yojana, Agri-Infra Fund) |
+| **BizConnect** | HTML/CSS/JS | Peer-to-peer business marketplace with admin-approved registration, product listings, buyer–seller chat, buy requests, and full order management across buyer, seller, and admin views |
+| **Chemify** | HTML/CSS/JS, SVG | Gamified chemistry learning site — periodic table explorer and interactive lessons, built to make chemistry click without a textbook |
+| **DocSum** | HTML/CSS/JS, Bootstrap, Three.js | Document workspace dashboard — drag-and-drop file queue, submission history, and persistent local records behind a dark glassmorphism UI |
+| **Rolls-Royce Experience Site** | Vanilla HTML/CSS/JS | Apple-style scroll-triggered cinematic page — 240-frame image sequence synced to scroll position for a luxury-brand feel, no frameworks |
+
+</div>
 
 ---
 
@@ -199,7 +234,9 @@ A full-stack data product — venue-specific player stats, pitch-type modifiers,
 
 | | Achievement | Details |
 |---|---|---|
-| 🗳️ | Shipped EV-CAST | Designed and deployed a real-time electronic voting system used by a 700-member organization |
+| 🗳️ | Shipped EV-CAST / SecureVote | Designed and deployed a real-time electronic voting system used by a 700-member organization |
+| 🩺 | Built PCOD Care AI | Designed a full hormonal-health platform bridging cycle tracking with real Indian government healthcare scheme access |
+| 🌾 | Shipped AgriGuard | 15-page agri-tech platform spanning crop data, disease detection, weather, market prices, and government subsidies |
 | 🏆 | Smart India Hackathon (SIH) | Competed at national level, applying full-stack skills to a real government/industry problem statement |
 | ⚡ | Hackathon 360 (KPR) | Built a complete web app prototype in 24 hours; led front-end development and JSON/XML data logic |
 | 👨‍💼 | Team Leader, Industry Internship | Led a student team through a full project delivery cycle at Agna Private Limited, Coimbatore |
