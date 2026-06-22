@@ -59,23 +59,6 @@ public class MuhammedSuhail {
 
 ---
 
-### 📊 GitHub Stats
- 
-<div align="center">
-  <a href="https://github.com/suhail3116">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhail3116&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-
-</div>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=suhail3116&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhail3116&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
 ## 🟧 Tech Stack
 
 **Languages**
@@ -245,11 +228,28 @@ A full-stack data product — venue-specific player stats, pitch-type modifiers,
 
 ```
 🤖  AI Fluency & Claude 101   → Anthropic foundations coursework
-🧠  NLP & LLM Tooling         → spaCy, HuggingFace, FastAPI, NER pipelines
 🌐  Full-Stack + Realtime     → Supabase, REST APIs, Realtime sync
 🔧  DSA                       → Advanced Problem Solving, Competitive Programming
 ```
 
+---
+
+### 📊 GitHub Stats
+ 
+<div align="center">
+  <a href="https://github.com/suhail3116">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhail3116&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  </a>
+
+</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=suhail3116&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhail3116&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
 <!-- FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:1A1A1A&height=120&section=footer&animation=twinkling" width="100%"/>
