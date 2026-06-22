@@ -183,7 +183,7 @@ A full-stack data product — venue-specific player stats, pitch-type modifiers,
 <summary><b>🏢 Team Leader — Agna Private Limited, Coimbatore (Industry Internship)</b></summary>
 <br/>
 
-> `HTML` `CSS` `JavaScript` `JSON` `Git` `SDLC` `Agile Basics`
+> `HTML` `CSS` `JavaScript` `JSON` `Git`
 
 - Led a cross-functional student team delivering a software project for an industry client — owned scoping, task delegation, and timelines.
 - Translated client requirements into clear, sprint-sized tasks for teammates with mixed technical backgrounds.
