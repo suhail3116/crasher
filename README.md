@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:D97757&height=180&section=header&text=M+Muhammed+Suhail&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer+Science+Engineering+Student+%7C+Building+with+Claude&descAlignY=62&descSize=16" width="100%"/>
 </p>
+
 <!-- TYPING HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full-Stack+%26+AI%2FML+Builder;Team+Leader+%40+Agna+Private+Limited;Aspiring+Claude+Corps+Fellow;Builds+Real+Tools+for+Real+Communities;Content+Creator+%26+Educator" />
