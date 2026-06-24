@@ -1,4 +1,3 @@
-#crasher
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a0a00,100:D97757&height=200&section=header&text=M+Muhammed+Suhail&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS+Engineering+Student+%7C+Builder+%7C+Claude+Corps+Aspirant&descAlignY=60&descSize=15&descColor=D97757" width="100%"/>
@@ -96,6 +95,7 @@ public class MuhammedSuhail {
 <p>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logoColor=white"/>
 </p>
@@ -112,7 +112,7 @@ public class MuhammedSuhail {
 
 ## 🟧 Featured Projects — Built with Claude
 
-> Not toy demos. These ran for real users on real day. And now i'm try to make more attractie 3d model websites, it is under construction.
+> Not toy demos. These ran for real users on real days. Currently building more immersive 3D model websites — 🚧 under construction.
 
 ---
 
@@ -171,9 +171,9 @@ public class MuhammedSuhail {
 **What shipped:**
 - ✅ Cycle phase tracker (follicular / ovulation / luteal) with severity scoring
 - ✅ AI-styled nutrition, movement & yoga protocols — phase-adaptive
-- ✅ Hospital finder for Coimbatore, Chennai, etc.
+- ✅ Hospital finder for Coimbatore, Chennai, and more
 - ✅ Plain-language guide to Indian govt schemes: Ayushman Bharat, NHM, PMMVY
-- ✅ Puts everything in one place — no medical jargon
+- ✅ Everything in one place — no medical jargon
 
 </td>
 <td width="40%" align="center">
@@ -233,31 +233,31 @@ public class MuhammedSuhail {
 
 <table>
 <tr>
-<td width="70%">
+<td width="55%">
 
 ### 💼 Team Leader — Agna Private Limited
 *Industry Internship, Coimbatore*
 
-- Led a cross-functional student team from scoping to delivery
-- Translated client requirements into sprint-sized tasks
-- Resolved blockers between team & client
+- Led a cross-functional student team from scoping to full delivery
+- Translated client requirements into sprint-sized tasks for mixed-skill teammates
+- Resolved technical blockers and kept comms flowing between team & client
 - Earned: One-Month Industry Internship Certificate (Team Leader)
 
-`HTML` `CSS` `JS` `JSON` `THREEJS` `PHP` `XML` 
+`HTML` `CSS` `JS` `JSON` `Three.js` `PHP` `XML`
 
 </td>
-<td width="30%">
+<td width="45%">
 
 ### 🏆 Competitions
 
-| | Event | Result |
-|---|---|---|
-| 🇮🇳 | Smart India Hackathon | National-level competitor |
-| ⚡ | Hackathon 360 2.0 (KPR) | 24-hour build — led front-end & data logic |
-| ⚡ | Hackathon 360 3.0 (KPR) | 24-hour build — led front-end & data logic |
-| ⚡ | NexGen Hackathon (Hindusthan) | led front-end & UI UX designing |
-| ⚡ | THIRAN2026 Hackathon (Sri Eshwar) | led front-end & Backend|
-| ⚡ | Sri Ranganathan Hackathon | led front-end & Backend |
+| | Event |
+|---|---|
+| 🇮🇳 | Smart India Hackathon — National level |
+| ⚡ | Hackathon 360 2.0 (KPR) — Front-end lead |
+| ⚡ | Hackathon 360 3.0 (KPR) — Front-end lead |
+| 🎨 | NexGen Hackathon (Hindusthan) — UI/UX lead |
+| 🔧 | THIRAN 2026 (Sri Eshwar) — Full-stack lead |
+| 🚀 | Sri Ranganathan Hackathon — Full-stack lead |
 
 </td>
 </tr>
@@ -289,25 +289,26 @@ public class MuhammedSuhail {
 ## 🟧 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=suhail3116&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=D97757&icon_color=D97757&text_color=c9d1d9&border_radius=10"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail3116&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=D97757&text_color=c9d1d9&border_radius=10"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=suhail3116&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=D97757&icon_color=D97757&text_color=c9d1d9&border_radius=10&rank_icon=github"/>
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suhail3116&theme=dark&hide_border=true&background=0D0D0D&ring=D97757&fire=D97757&currStreakLabel=D97757&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=ffffff&stroke=0D0D0D&border_radius=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=suhail3116&theme=dark&hide_border=true&background=0D0D0D&ring=D97757&fire=D97757&currStreakLabel=D97757&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=ffffff&border_radius=10"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhail3116&theme=react-dark&bg_color=0d0d0d&color=D97757&line=D97757&point=ffffff&area=true&area_color=D97757&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhail3116&theme=react-dark&bg_color=0d0d0d&color=D97757&line=D97757&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
 
 <p align="center">
-  <i style="color:#D97757">"Build something real. Then teach someone else to run it."</i><br/>
+  <i>"Build something real. Then teach someone else to run it."</i><br/>
   <sub>— M Muhammed Suhail</sub>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:1a0a00,100:0D0D0D&height=130&section=footer&animation=twinkling" width="100%"/>
 </p>
+
+Done
