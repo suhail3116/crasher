@@ -1,255 +1,309 @@
-# crasher
+#crasher
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:D97757&height=180&section=header&text=M+Muhammed+Suhail&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Computer+Science+Engineering+Student+%7C+Building+with+Claude&descAlignY=62&descSize=16" width="100%"/>
-</p>
-
-<!-- TYPING HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full-Stack+%26+AI%2FML+Builder;Team+Leader+%40+Agna+Private+Limited;Aspiring+Claude+Corps+Fellow;Builds+Real+Tools+for+Real+Communities;Content+Creator+%26+Educator" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a0a00,100:D97757&height=200&section=header&text=M+Muhammed+Suhail&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS+Engineering+Student+%7C+Builder+%7C+Claude+Corps+Aspirant&descAlignY=60&descSize=15&descColor=D97757" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="mailto:cse23500492@gmail.com">
-    <img src="https://img.shields.io/badge/Email-cse23500492%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Profile%20Views-komarev-D97757?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=suhail3116&style=flat-square&color=d97757&label=" alt="profile views" height="20"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=780&lines=Full-Stack+%26+AI%2FML+Builder;Ships+Real+Tools+for+Real+People;Team+Leader+%40+Agna+Private+Limited;Aspiring+Claude+Corps+Fellow+%F0%9F%A7%A1;Cricket+Analyst+%7C+Content+Creator;%22Ship+it.+Teach+it.+Repeat.%22" />
 </p>
+
+<p align="center">
+  <a href="mailto:cse23500492@gmail.com"><img src="https://img.shields.io/badge/Gmail-cse23500492-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/suhail3116"><img src="https://img.shields.io/badge/GitHub-suhail3116-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=suhail3116&style=for-the-badge&color=D97757&label=PROFILE+VIEWS"/>
+</p>
+
+---
+
 <br/>
 
-<!-- ABOUT ME — PHOTO BANNER + CODE BLOCK -->
-<img align="right" width="150" src="https://avatars.githubusercontent.com/u/264096411?s=400&u=d4b1508f8560610b072fadf993280ab672423b02&v=4" alt="M Muhammed Suhail"/>
+<!-- PROFILE PHOTO — circular with glow ring -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/264096411?s=400&u=d4b1508f8560610b072fadf993280ab672423b02&v=4"
+       width="130"
+       style="border-radius:50%; border: 3px solid #D97757; box-shadow: 0 0 20px #D97757;"
+       alt="M Muhammed Suhail"/>
+</p>
+
+<p align="center">
+  <b style="color:#D97757; font-size:18px;">M Muhammed Suhail</b><br/>
+  <sub>📍 Coimbatore, Tamil Nadu, India &nbsp;|&nbsp; 🎓 B.E. CSE @ Dhaanish Ahmed Institute of Technology</sub>
+</p>
+
+<br/>
+
+---
+
+## 🟧 `whoami`
 
 ```java
 public class MuhammedSuhail {
 
-    private String name             = "M Muhammed Suhail";
-    private String location         = "COIMBATORE, TAMIL NADU, INDIA";
-    private String degree           = "B.E. Computer Science Engineering (Pursuing)";
-    private String priorDegree      = "Diploma in Computer Science Engineering (Completed)";
+    String name        = "M Muhammed Suhail";
+    String location    = "Coimbatore, Tamil Nadu, India";
+    String degree      = "B.E. Computer Science Engineering (Pursuing)";
+    String prior       = "Diploma in Computer Science (Completed – 71%)";
 
-    private String[] stack = {
-        "Java", "Python", "C", "C++", "HTML", "CSS", "JavaScript", "MySQL", "React", "ThreeJS"
-    };
+    String[] languages  = { "Java", "Python", "C", "C++", "JavaScript", "HTML", "CSS" };
+    String[] aiStack    = { "Claude / LLM-assisted dev", "spaCy", "HuggingFace", "FastAPI" };
+    String[] backend    = { "Supabase + Realtime", "MySQL", "REST APIs" };
+    String[] frontend   = { "React", "Three.js", "Tailwind CSS", "Bootstrap" };
+    String[] spoken     = { "English", "Tamil (Native)", "Malayalam" };
 
-    private String[] buildingWith = {
-        "Claude / LLM-assisted development", "Supabase + Realtime",
-        "spaCy", "HuggingFace Transformers", "FastAPI"
-    };
+    String funFact =
+        "Led a cross-functional team as Team Leader during an industry internship, " +
+        "then single-handedly designed, built, and shipped SecureVote — " +
+        "a live electronic voting system used by 700 real members on a real election day.";
 
-    private String[] languagesSpoken = { "English", "Tamil (Native)", "Malayalam" };
-
-    private String funFact =
-        "Led a cross-functional student team as Team Leader during an industry " +
-        "internship, then went on to single-handedly design, build, and ship " +
-        "SecureVote -- a live electronic voting system for a 700-member organization.";
-
-    public String motto() {
-        return "Ship something real, then teach someone else to run it.";
-    }
+    String motto() { return "Ship something real. Then teach someone else to run it."; }
 }
 ```
-
-<br clear="right"/>
 
 ---
 
 ## 🟧 Tech Stack
 
 **Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor="white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 **AI / ML & NLP**
-<p align="left">
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-</p>
-
-**Backend & Data**
-<p align="left">
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSV-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 **Frontend & 3D**
-<p align="left">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-**Tools & Workflow**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+**Backend & Data**
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
 
-## 🟧 Building With Claude
+## 🟧 Featured Projects — Built with Claude
 
-> Real projects, built end-to-end with Claude as a thinking and shipping partner — not toy demos.
-
-<details open>
-<summary><b>🗳️ SecureVote (EV-CAST) — Electronic Voting System for a 700-Member Organization</b></summary>
-<br/>
-
-A production election portal, taken from a local-storage prototype to a real deployed system used for an actual vote — not a demo:
-- Issued and managed **700 verified member credentials** (unique ID + password per voter), with an admin dashboard tracking voter participation in real time.
-- Migrated state management toward a **Supabase backend with Realtime sync**, so results and ballots update live across every connected device.
-- Built **role-based access** (voter / admin) with position-based ballots, candidate cards, a "you've already voted" safeguard, and exportable results — so non-technical staff could run the election without engineering support.
-- The kind of project that had to actually work for real people on a real day, with a non-technical org running it after I stepped back.
-
-</details>
-
-<details>
-<summary><b>🩺 PCOD Care AI — Hormonal Health Platform</b></summary>
-<br/>
-
-A women's health companion app for managing PCOD/PCOS, built around the idea that healthcare tools should meet people where they are:
-- **Cycle tracking & symptom severity scoring** — logs periods, computes cycle phase (follicular / ovulation / luteal), and turns daily check-ins into a clear severity read-out instead of a wall of medical jargon.
-- **AI-assistant-styled guidance** — nutrition tips, a movement/yoga protocol, and water tracking, all tailored to where someone is in their cycle.
-- **Healthcare access bridge** — a clinic/hospital finder for Coimbatore and Chennai, paired with plain-language explainers of Indian government health schemes (Ayushman Bharat / PM-JAY, NHM free diagnostics, Pradhan Mantri Matru Vandana Yojana) so people actually know what they're entitled to.
-- Built because PCOD management in India is split across hospital visits, WhatsApp forwards, and guesswork — this puts it in one place.
-
-</details>
-
-<details>
-<summary><b>🌉 The Kanyakumari Quill Bridge — Tourism Infrastructure Concept</b></summary>
-<br/>
-
-A single-pylon suspension bridge concept connecting Kanyakumari mainland to Vivekananda Rock — taken from idea to a **Three.js interactive 3D model** and a full **pitch deck**, to make an ambitious infrastructure idea tangible and explainable to a non-technical audience.
-
-</details>
-
-<details>
-<summary><b>🧠 AI/NLP Document Extraction Exploration</b></summary>
-<br/>
-
-Hands-on work with **spaCy**, **HuggingFace Transformers**, and **NER pipelines**, deployed via **FastAPI** — learning to ship practical AI tooling, not just call an API.
-
-</details>
-
-<details>
-<summary><b>🏏 IPL 2026 Stats & Prediction Platform</b></summary>
-<br/>
-
-A full-stack data product — venue-specific player stats, pitch-type modifiers, head-to-head matrices — built to turn raw match data into something a casual fan could actually use and understand.
-
-</details>
+> Not toy demos. These ran for real users on real days.
 
 ---
 
-## 🟧 Additional Projects
+### 🗳️ SecureVote (EV-CAST) — Electronic Voting for 700 Members
 
-<div align="center">
+<table>
+<tr>
+<td width="60%">
+
+**The problem:** A 700-member organisation needed a verifiable, live election system — with non-technical staff running it solo after handoff.
+
+**What shipped:**
+- ✅ 700 unique voter credentials, each issued and tracked
+- ✅ Role-based access: voter / admin flows, fully separated
+- ✅ Supabase Realtime sync — results update live across every device
+- ✅ Position-based multi-ballot, candidate photo cards, "already voted" guard
+- ✅ Exportable results CSV — zero engineering needed after launch
+
+**The real test:** It had to work. Real people. Real day. Real votes.
+
+</td>
+<td width="40%" align="center">
+
+```
+┌──────────────────────┐
+│   🗳️  SecureVote     │
+│  ─────────────────   │
+│  👤 Voter Login      │
+│  ──────────────────  │
+│  [Cast Your Vote]    │
+│                      │
+│  📊 Live Results     │
+│  ████████░░  67%     │
+│  █████░░░░░  42%     │
+│                      │
+│  ✅ 583/700 Voted    │
+└──────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+`HTML` `CSS` `JavaScript` `Supabase` `Realtime` `Role-based Auth`
+
+---
+
+### 🩺 PCOD Care AI — Hormonal Health Platform
+
+<table>
+<tr>
+<td width="60%">
+
+**The problem:** PCOD management in India is split across hospital visits, WhatsApp forwards, and guesswork.
+
+**What shipped:**
+- ✅ Cycle phase tracker (follicular / ovulation / luteal) with severity scoring
+- ✅ AI-styled nutrition, movement & yoga protocols — phase-adaptive
+- ✅ Hospital finder for Coimbatore & Chennai
+- ✅ Plain-language guide to Indian govt schemes: Ayushman Bharat, NHM, PMMVY
+- ✅ Puts everything in one place — no medical jargon
+
+</td>
+<td width="40%" align="center">
+
+```
+┌──────────────────────┐
+│  🩺  PCOD Care AI   │
+│  ─────────────────   │
+│  📅 Day 14 of cycle  │
+│  Phase: Ovulation 🌸 │
+│                      │
+│  💧 Water: 6/8 cups  │
+│  🥗 Nutrition tips   │
+│  🧘 Yoga for today   │
+│                      │
+│  🏥 Find a clinic ›  │
+└──────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+`HTML` `CSS` `JavaScript` `AI-assisted logic` `Healthcare UX`
+
+---
+
+### 🌾 AgriGuard — Farmer Support Platform (15 Screens)
+
+| Feature | What it does |
+|---|---|
+| 🌱 Crop Database | 40+ crops — disease, soil, season data |
+| 🤖 AI Disease Detection | Symptom-guided diagnostic flow |
+| 🌦️ Live Weather | Open-Meteo API integration |
+| 💰 Market Prices | Real-time mandi tracker |
+| 📊 Profit Predictor | Cost vs. yield modelling |
+| 🏛️ Govt Schemes | PM-KISAN, Fasal Bima, Agri-Infra Fund connector |
+
+`HTML/CSS/JS` `Tailwind` `Three.js` `Open-Meteo API`
+
+---
+
+### Additional Projects
 
 | Project | Stack | What It Does |
 |---|---|---|
-| **AgriGuard** | HTML/CSS/JS, Tailwind, Three.js, Open-Meteo API | 15-page farmer-support platform: 40+ crop database, AI-styled disease detection, fertilizer/N-P-K planning guide, water calculator, live weather forecasting, market price tracker, profit predictor, and a government subsidy connector (PM-KISAN, Fasal Bima Yojana, Agri-Infra Fund) |
-| **BizConnect** | HTML/CSS/JS | Peer-to-peer business marketplace with admin-approved registration, product listings, buyer–seller chat, buy requests, and full order management across buyer, seller, and admin views |
-| **Chemify** | HTML/CSS/JS, SVG | Gamified chemistry learning site — periodic table explorer and interactive lessons, built to make chemistry click without a textbook |
-| **DocSum** | HTML/CSS/JS, Bootstrap, Three.js | Document workspace dashboard — drag-and-drop file queue, submission history, and persistent local records behind a dark glassmorphism UI |
-| **Rolls-Royce Experience Site** | Vanilla HTML/CSS/JS | Apple-style scroll-triggered cinematic page — 240-frame image sequence synced to scroll position for a luxury-brand feel, no frameworks |
-
-</div>
-
----
-
-## 🟧 Work Experience
-
-<details>
-<summary><b>🏢 Team Leader — Agna Private Limited, Coimbatore (Industry Internship)</b></summary>
-<br/>
-
-> `HTML` `CSS` `JavaScript` `JSON` `Git`
-
-- Led a cross-functional student team delivering a software project for an industry client — owned scoping, task delegation, and timelines.
-- Translated client requirements into clear, sprint-sized tasks for teammates with mixed technical backgrounds.
-- Resolved technical blockers and kept communication flowing between the team and the client to keep milestones on schedule.
-- Completed the engagement with a One-Month Industry Internship Certificate (Team Leader role).
-
-</details>
+| **🌉 Kanyakumari Quill Bridge** | Three.js, HTML/CSS/JS | Single-pylon suspension bridge concept — 3D model + full pitch deck |
+| **🏏 IPL 2026 Stats Platform** | React, Three.js | Venue stats, pitch modifiers, head-to-head matrices, match predictions |
+| **🔗 BizConnect** | HTML/CSS/JS | Peer-to-peer business marketplace with admin-gated registration & chat |
+| **⚗️ Chemify** | HTML/CSS/JS, SVG | Gamified periodic table explorer for chemistry education |
+| **📄 DocSum** | HTML/CSS/JS, Three.js | Drag-and-drop document dashboard with glassmorphism dark UI |
+| **🚗 Rolls-Royce Experience** | Vanilla JS | 240-frame scroll-triggered image sequence — Apple-style, no frameworks |
 
 ---
 
-## 🟧 Achievements & Competitions
+## 🟧 Work & Achievements
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| | Achievement | Details |
+### 💼 Team Leader — Agna Private Limited
+*Industry Internship, Coimbatore*
+
+- Led a cross-functional student team from scoping to delivery
+- Translated client requirements into sprint-sized tasks
+- Resolved blockers between team & client
+- Earned: One-Month Industry Internship Certificate (Team Leader)
+
+`HTML` `CSS` `JS` `JSON` `Git` `Agile`
+
+</td>
+<td width="50%">
+
+### 🏆 Competitions
+
+| | Event | Result |
 |---|---|---|
-| 🗳️ | Shipped SecureVote (EV-CAST) | Designed and deployed a real-time electronic voting system used by a 700-member organization |
-| 🩺 | Built PCOD Care AI | Designed a full hormonal-health platform bridging cycle tracking with real Indian government healthcare scheme access |
-| 🌾 | Shipped AgriGuard | 15-page agri-tech platform spanning crop data, disease detection, weather, market prices, and government subsidies |
-| 🏆 | Smart India Hackathon (SIH) | Competed at national level, scoping and building a solution for a real government/industry problem statement under time pressure |
-| ⚡ | Hackathon 360 (KPR) | Built a complete web app prototype in 24 hours; led front-end development and JSON/XML data logic |
-| 👨‍💼 | Team Leader, Industry Internship | Led a student team through a full project delivery cycle at Agna Private Limited, Coimbatore |
-| 🎓 | Diploma, Computer Science Engineering | Completed polytechnic-level diploma, building a strong CS fundamentals base |
+| 🇮🇳 | Smart India Hackathon | National-level competitor |
+| ⚡ | Hackathon 360 (KPR) | 24-hour build — led front-end & data logic |
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🟧 Education
 
-<div align="center">
-
-| Degree | Institution | Year | Score |
+| Degree | Institution | Status | Score |
 |---|---|---|---|
-| B.E., Computer Science Engineering | DHAANISH AHMED INSTITUTE OF TECHNOLOGY | Currently Pursuing | — |
-| Diploma, Computer Science Engineering | GOVERNMENT POLYTECNIC COLLEGE COIMBATORE | Completed | 71% |
-| Secondary Education (10th Grade) | K. S. C. GOVT SCHOOL TIRUPPUR | Completed | - |
+| B.E. Computer Science Engineering | Dhaanish Ahmed Institute of Technology | 🔄 Pursuing | — |
+| Diploma, Computer Science Engineering | Govt. Polytechnic College, Coimbatore | ✅ Completed | 71% |
+| Secondary (10th Grade) | K.S.C. Govt. School, Tiruppur | ✅ Completed | — |
 
-</div>
+---
 
 ## 🟧 Currently Learning
 
 ```
-🤖  AI Fluency & Claude 101   → Anthropic foundations coursework
-🌐  Full-Stack + Realtime     → Supabase, REST APIs, Realtime sync
-🔧  DSA                       → Advanced Problem Solving, Competitive Programming
+🤖  AI Fluency & Claude 101    →  Anthropic foundations coursework
+🌐  Full-Stack + Realtime      →  Supabase, REST APIs, Realtime sync
+🔧  DSA & Competitive Prog.    →  Advanced problem solving
+🏏  Cricket Analytics SaaS     →  Building a cricket data product
 ```
 
 ---
 
-### 📊 GitHub Stats
- 
-<div align="center">
-  <a href="https://github.com/suhail3116">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suhail3116&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
+## 🟧 GitHub Stats
 
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=suhail3116&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0d0d&title_color=D97757&icon_color=D97757&text_color=c9d1d9&border_radius=10"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail3116&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=D97757&text_color=c9d1d9&border_radius=10"/>
 </div>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suhail3116&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=suhail3116&theme=dark&hide_border=true&background=0D0D0D&ring=D97757&fire=D97757&currStreakLabel=D97757&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=ffffff&stroke=0D0D0D&border_radius=10"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhail3116&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhail3116&theme=react-dark&bg_color=0d0d0d&color=D97757&line=D97757&point=ffffff&area=true&area_color=D97757&hide_border=true" width="100%"/>
 </p>
 
 ---
-<!-- FOOTER WAVE -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:1A1A1A&height=120&section=footer&animation=twinkling" width="100%"/>
+  <i style="color:#D97757">"Build something real. Then teach someone else to run it."</i><br/>
+  <sub>— M Muhammed Suhail</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:1a0a00,100:0D0D0D&height=130&section=footer&animation=twinkling" width="100%"/>
 </p>
