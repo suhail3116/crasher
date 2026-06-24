@@ -36,7 +36,7 @@
 
 ---
 
-## 🟧 `whoami`
+## 🟧 `Who Am I`
 
 ```java
 public class MuhammedSuhail {
@@ -112,7 +112,7 @@ public class MuhammedSuhail {
 
 ## 🟧 Featured Projects — Built with Claude
 
-> Not toy demos. These ran for real users on real days.
+> Not toy demos. These ran for real users on real day. And now i'm try to make more attractie 3d model websites, it is under construction.
 
 ---
 
@@ -171,7 +171,7 @@ public class MuhammedSuhail {
 **What shipped:**
 - ✅ Cycle phase tracker (follicular / ovulation / luteal) with severity scoring
 - ✅ AI-styled nutrition, movement & yoga protocols — phase-adaptive
-- ✅ Hospital finder for Coimbatore & Chennai
+- ✅ Hospital finder for Coimbatore, Chennai, etc.
 - ✅ Plain-language guide to Indian govt schemes: Ayushman Bharat, NHM, PMMVY
 - ✅ Puts everything in one place — no medical jargon
 
@@ -233,7 +233,7 @@ public class MuhammedSuhail {
 
 <table>
 <tr>
-<td width="50%">
+<td width="70%">
 
 ### 💼 Team Leader — Agna Private Limited
 *Industry Internship, Coimbatore*
@@ -243,17 +243,21 @@ public class MuhammedSuhail {
 - Resolved blockers between team & client
 - Earned: One-Month Industry Internship Certificate (Team Leader)
 
-`HTML` `CSS` `JS` `JSON` `Git` `Agile`
+`HTML` `CSS` `JS` `JSON` `THREEJS` `PHP` `XML` 
 
 </td>
-<td width="50%">
+<td width="30%">
 
 ### 🏆 Competitions
 
 | | Event | Result |
 |---|---|---|
 | 🇮🇳 | Smart India Hackathon | National-level competitor |
-| ⚡ | Hackathon 360 (KPR) | 24-hour build — led front-end & data logic |
+| ⚡ | Hackathon 360 2.0 (KPR) | 24-hour build — led front-end & data logic |
+| ⚡ | Hackathon 360 3.0 (KPR) | 24-hour build — led front-end & data logic |
+| ⚡ | NexGen Hackathon (Hindusthan) | led front-end & UI UX designing |
+| ⚡ | THIRAN2026 Hackathon (Sri Eshwar) | led front-end & Backend|
+| ⚡ | Sri Ranganathan Hackathon | led front-end & Backend |
 
 </td>
 </tr>
