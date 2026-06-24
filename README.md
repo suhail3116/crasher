@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a0a00,100:D97757&height=200&section=header&text=M+Muhammed+Suhail&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS+Engineering+Student+%7C+Builder+%7C+Claude+Corps+Aspirant&descAlignY=60&descSize=15&descColor=D97757" width="100%"/>
 </p>
@@ -310,5 +309,3 @@ public class MuhammedSuhail {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:1a0a00,100:0D0D0D&height=130&section=footer&animation=twinkling" width="100%"/>
 </p>
-
-Done
