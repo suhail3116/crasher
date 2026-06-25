@@ -17,16 +17,18 @@
 
 <br/>
 
-<!-- PROFILE PHOTO — circular with glow ring -->
+<!-- PROFILE PHOTO — circular via readme-components workaround -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/264096411?s=400&u=d4b1508f8560610b072fadf993280ab672423b02&v=4"
-       width="130"
-       style="border-radius:50%; border: 3px solid #D97757; box-shadow: 0 0 20px #D97757;"
-       alt="M Muhammed Suhail"/>
+  <a href="https://github.com/suhail3116">
+    <img src="https://avatars.githubusercontent.com/u/264096411?s=400&u=d4b1508f8560610b072fadf993280ab672423b02&v=4"
+         width="130"
+         style="border-radius:50%;"
+         alt="M Muhammed Suhail"/>
+  </a>
 </p>
 
 <p align="center">
-  <b style="color:#D97757; font-size:18px;">M Muhammed Suhail</b><br/>
+  <strong>M Muhammed Suhail</strong><br/>
   <sub>📍 Coimbatore, Tamil Nadu, India &nbsp;|&nbsp; 🎓 B.E. CSE @ Dhaanish Ahmed Institute of Technology</sub>
 </p>
 
@@ -104,6 +106,7 @@ public class MuhammedSuhail {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
@@ -111,7 +114,7 @@ public class MuhammedSuhail {
 
 ## 🟧 Featured Projects — Built with Claude
 
-> Not toy demos. These ran for real users on real days. Currently building more immersive 3D model websites — 🚧 under construction.
+> Not toy demos. These ran for real users on real days. Now building more 3D model websites — watch this space 🔨
 
 ---
 
@@ -170,9 +173,9 @@ public class MuhammedSuhail {
 **What shipped:**
 - ✅ Cycle phase tracker (follicular / ovulation / luteal) with severity scoring
 - ✅ AI-styled nutrition, movement & yoga protocols — phase-adaptive
-- ✅ Hospital finder for Coimbatore, Chennai, and more
+- ✅ Hospital finder for Coimbatore, Chennai, etc.
 - ✅ Plain-language guide to Indian govt schemes: Ayushman Bharat, NHM, PMMVY
-- ✅ Everything in one place — no medical jargon
+- ✅ Puts everything in one place — no medical jargon
 
 </td>
 <td width="40%" align="center">
@@ -237,9 +240,9 @@ public class MuhammedSuhail {
 ### 💼 Team Leader — Agna Private Limited
 *Industry Internship, Coimbatore*
 
-- Led a cross-functional student team from scoping to full delivery
-- Translated client requirements into sprint-sized tasks for mixed-skill teammates
-- Resolved technical blockers and kept comms flowing between team & client
+- Led a cross-functional student team from scoping to delivery
+- Translated client requirements into sprint-sized tasks
+- Resolved blockers between team & client
 - Earned: One-Month Industry Internship Certificate (Team Leader)
 
 `HTML` `CSS` `JS` `JSON` `Three.js` `PHP` `XML`
@@ -247,16 +250,16 @@ public class MuhammedSuhail {
 </td>
 <td width="45%">
 
-### 🏆 Competitions
+### 🏆 Hackathons & Competitions
 
-| | Event |
-|---|---|
-| 🇮🇳 | Smart India Hackathon — National level |
-| ⚡ | Hackathon 360 2.0 (KPR) — Front-end lead |
-| ⚡ | Hackathon 360 3.0 (KPR) — Front-end lead |
-| 🎨 | NexGen Hackathon (Hindusthan) — UI/UX lead |
-| 🔧 | THIRAN 2026 (Sri Eshwar) — Full-stack lead |
-| 🚀 | Sri Ranganathan Hackathon — Full-stack lead |
+| | Event | Role |
+|---|---|---|
+| 🇮🇳 | Smart India Hackathon | National-level competitor |
+| ⚡ | Hackathon 360 **2.0** (KPR) | Frontend lead + data logic |
+| ⚡ | Hackathon 360 **3.0** (KPR) | Frontend lead + data logic |
+| 🎨 | NexGen Hackathon (Hindusthan) | Frontend + UI/UX design lead |
+| 🔧 | THIRAN 2026 (Sri Eshwar) | Frontend + Backend lead |
+| 🏅 | Sri Ranganathan Hackathon | Frontend + Backend lead |
 
 </td>
 </tr>
@@ -289,6 +292,8 @@ public class MuhammedSuhail {
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=suhail3116&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=D97757&icon_color=D97757&text_color=c9d1d9&border_radius=10&rank_icon=github"/>
+&nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail3116&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=D97757&text_color=c9d1d9&border_radius=10&langs_count=8&card_width=300"/>
 </div>
 
 <p align="center">
@@ -299,10 +304,14 @@ public class MuhammedSuhail {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhail3116&theme=react-dark&bg_color=0d0d0d&color=D97757&line=D97757&point=ffffff&area=true&hide_border=true" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suhail3116&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6&title=Repositories,Commits,Stars,Followers,Issues,PullRequest"/>
+</p>
+
 ---
 
 <p align="center">
-  <i>"Build something real. Then teach someone else to run it."</i><br/>
+  <em>"Build something real. Then teach someone else to run it."</em><br/>
   <sub>— M Muhammed Suhail</sub>
 </p>
 
