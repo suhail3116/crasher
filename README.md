@@ -1,320 +1,141 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a0a00,100:D97757&height=200&section=header&text=M+Muhammed+Suhail&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS+Engineering+Student+%7C+Builder+%7C+Claude+Corps+Aspirant&descAlignY=60&descSize=15&descColor=D97757" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,50:332603,100:C9960C&height=220&section=header&text=M+Ayisha+Afreen&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Computer+Science+Engineer+%7C+Full-Stack+Enthusiast+%7C+Microsoft+Intern+Aspirant&descAlignY=60&descSize=15&descColor=FAFAF8" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=780&lines=Full-Stack+%26+AI%2FML+Builder;Ships+Real+Tools+for+Real+People;Team+Leader+%40+Agna+Private+Limited;Aspiring+Claude+Corps+Fellow+%F0%9F%A7%A1;Cricket+Analyst+%7C+Content+Creator;%22Ship+it.+Teach+it.+Repeat.%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&duration=3000&pause=1000&color=C9960C&center=true&vCenter=true&width=780&lines=Aspiring+Software+Engineering+Intern+%40+Microsoft+🌿;Full-Stack+Web+%26+AI+Pipeline+Builder;Smart+India+Hackathon+National+Competitor+🏆;Growth+Mindset+%7C+Continuous+Learner" />
 </p>
 
 <p align="center">
-  <a href="mailto:cse23500492@gmail.com"><img src="https://img.shields.io/badge/Gmail-cse23500492-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/suhail3116"><img src="https://img.shields.io/badge/GitHub-suhail3116-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=suhail3116&style=for-the-badge&color=D97757&label=PROFILE+VIEWS"/>
+  <a href="mailto:afriiafrin03@gmail.com"><img src="https://img.shields.io/badge/Gmail-afriiafrin03-C9960C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/suhail3116"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ayisha-afreen-readme&style=for-the-badge&color=C9960C&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
 <br/>
 
-<!-- PROFILE PHOTO — circular via readme-components workaround -->
 <p align="center">
-  <a href="https://github.com/suhail3116">
-    <img src="https://avatars.githubusercontent.com/u/264096411?s=400&u=d4b1508f8560610b072fadf993280ab672423b02&v=4"
-         width="130"
-         style="border-radius:50%;"
-         alt="M Muhammed Suhail"/>
-  </a>
-</p>
-
-<p align="center">
-  <strong>M Muhammed Suhail</strong><br/>
-  <sub>📍 Coimbatore, Tamil Nadu, India &nbsp;|&nbsp; 🎓 B.E. CSE @ Dhaanish Ahmed Institute of Technology</sub>
+  <strong>M Ayisha Afreen</strong><br/>
+  <sub>📍 Tamil Nadu, India &nbsp;|&nbsp; 🎓 B.E. Computer Science Engineering</sub>
 </p>
 
 <br/>
 
 ---
 
-## 🟧 `Who Am I`
+## ⚜️ Professional Focus & Objective
 
-```java
-public class MuhammedSuhail {
+> *“Motivated Computer Science Engineering student with hands-on experience in web development, problem-solving, and competitive hackathon environments. Eager to contribute to **Microsoft's mission** of empowering every person and organization through technology by applying programming skills, analytical thinking, and a collaborative mindset.”*
 
-    String name        = "M Muhammed Suhail";
-    String location    = "Coimbatore, Tamil Nadu, India";
-    String degree      = "B.E. Computer Science Engineering (Pursuing)";
-    String prior       = "Diploma in Computer Science (Completed – 71%)";
-
-    String[] languages  = { "Java", "Python", "C", "C++", "JavaScript", "HTML", "CSS" };
-    String[] aiStack    = { "Claude / LLM-assisted dev", "spaCy", "HuggingFace", "FastAPI" };
-    String[] backend    = { "Supabase + Realtime", "MySQL", "REST APIs" };
-    String[] frontend   = { "React", "Three.js", "Tailwind CSS", "Bootstrap" };
-    String[] spoken     = { "English", "Tamil (Native)", "Malayalam" };
-
-    String funFact =
-        "Led a cross-functional team as Team Leader during an industry internship, " +
-        "then single-handedly designed, built, and shipped SecureVote — " +
-        "a live electronic voting system used by 700 real members on a real election day.";
-
-    String motto() { return "Ship something real. Then teach someone else to run it."; }
-}
-```
+### ⚡ Culture & Mindset Alignment
+* **Growth Mindset:** Fully aligned with structural engineering cultures of continuous personal, technical, and team-driven learning.
+* **Core Strengths:** Deeply focused on structural layout architecture, tracking dynamic event workflows, agile project sprint configurations, and systematic engineering loops.
 
 ---
 
-## 🟧 Tech Stack
+## ⚜️ Technical Competency Matrix
 
-**Languages**
+**Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+**AI Integration & Ecosystems**
+<p>
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-C9960C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vision_AI-LightGrey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure_Basics-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
+**Web Development & Frontend**
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-**AI / ML & NLP**
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-**Frontend & 3D**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Glassmorphism-FAFAF8?style=for-the-badge"/>
 </p>
 
-**Backend & Data**
+**Data, Infrastructure & Methodology**
 <p>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logoColor=white"/>
-</p>
-
-**Tools**
-<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
 
-## 🟧 Featured Projects — Built with Claude
+## ⚜️ Project Contributions & Engineering Impact
 
-> Not toy demos. These ran for real users on real days. Now building more 3D model websites — watch this space 🔨
+### 🗳️ 01. EV-CAST — SecureVote | *Assistant Developer*
+* **The Project:** A verifiable, full-stack live electronic voting platform engineered to support 700+ real-world members on an election day.
+* **Core Architecture & Features:** 
+  * Implemented **700 unique voter credentials**, ensuring each was independently issued, tracked, and guarded.
+  * Supported **role-based access control layers** to cleanly segment separate voter and administrative dashboard pipelines.
+  * Assisted in integrating a **Supabase Realtime sync layer** to broadcast live, multi-position ballot vote count tallies dynamically across all connected user devices.
+  * Standardized data handling routines to facilitate one-click exportable results CSV reports for non-technical staff.
 
----
+### 🩺 02. PCOD Care AI | *Assistant Developer*
+* **The Project:** An AI-powered, multi-module corporate wellness and diagnostic platform leveraging LLM capabilities.
+* **Core Architecture & Features:**
+  * Supported the development of structured, multi-turn conversational prompt chains utilizing the Claude API as the primary reasoning engine.
+  * Assisted in building a comprehensive **cycle phase tracker** mapping specific diagnostic attributes across follicular, ovulation, and luteal phases with severity scoring mechanics.
+  * Maintained structural focus on integrating interactive hospital locator databases for region clusters alongside simplified plain-language guidance documentation for major Indian government health schemes (e.g., Ayushman Bharat).
 
-### 🗳️ SecureVote (EV-CAST) — Electronic Voting for 700 Members
-
-<table>
-<tr>
-<td width="60%">
-
-**The problem:** A 700-member organisation needed a verifiable, live election system — with non-technical staff running it solo after handoff.
-
-**What shipped:**
-- ✅ 700 unique voter credentials, each issued and tracked
-- ✅ Role-based access: voter / admin flows, fully separated
-- ✅ Supabase Realtime sync — results update live across every device
-- ✅ Position-based multi-ballot, candidate photo cards, "already voted" guard
-- ✅ Exportable results CSV — zero engineering needed after launch
-
-**The real test:** It had to work. Real people. Real day. Real votes.
-
-</td>
-<td width="40%" align="center">
-
-```
-┌──────────────────────┐
-│   🗳️  SecureVote     │
-│  ─────────────────   │
-│  👤 Voter Login      │
-│  ──────────────────  │
-│  [Cast Your Vote]    │
-│                      │
-│  📊 Live Results     │
-│  ████████░░  67%     │
-│  █████░░░░░  42%     │
-│                      │
-│  ✅ 583/700 Voted    │
-└──────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-`HTML` `CSS` `JavaScript` `Supabase` `Realtime` `Role-based Auth`
+### 🌾 03. AgriGuard | *Assistant Developer*
+* **The Project:** A robust, **15-screen farmer support platform** designed to drive localized agricultural insights and crop security.
+* **Core Architecture & Features:**
+  * Assisted in crafting the end-to-end processing pipelines linking a **40+ crop database** (disease, soil, and seasoning models) with Claude Vision image analysis engines.
+  * Co-developed data parsers connecting to open APIs (e.g., Open-Meteo) to stream live weather analytics and real-time mandi market price indices.
+  * Formulated mathematical state tracking arrays supporting an interactive predictive yield and production cost model.
 
 ---
 
-### 🩺 PCOD Care AI — Hormonal Health Platform
+### Additional Core Co-Development Projects
 
-<table>
-<tr>
-<td width="60%">
-
-**The problem:** PCOD management in India is split across hospital visits, WhatsApp forwards, and guesswork.
-
-**What shipped:**
-- ✅ Cycle phase tracker (follicular / ovulation / luteal) with severity scoring
-- ✅ AI-styled nutrition, movement & yoga protocols — phase-adaptive
-- ✅ Hospital finder for Coimbatore, Chennai, etc.
-- ✅ Plain-language guide to Indian govt schemes: Ayushman Bharat, NHM, PMMVY
-- ✅ Puts everything in one place — no medical jargon
-
-</td>
-<td width="40%" align="center">
-
-```
-┌──────────────────────┐
-│  🩺  PCOD Care AI   │
-│  ─────────────────   │
-│  📅 Day 14 of cycle  │
-│  Phase: Ovulation 🌸 │
-│                      │
-│  💧 Water: 6/8 cups  │
-│  🥗 Nutrition tips   │
-│  🧘 Yoga for today   │
-│                      │
-│  🏥 Find a clinic ›  │
-└──────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-`HTML` `CSS` `JavaScript` `AI-assisted logic` `Healthcare UX`
-
----
-
-### 🌾 AgriGuard — Farmer Support Platform (15 Screens)
-
-| Feature | What it does |
-|---|---|
-| 🌱 Crop Database | 40+ crops — disease, soil, season data |
-| 🤖 AI Disease Detection | Symptom-guided diagnostic flow |
-| 🌦️ Live Weather | Open-Meteo API integration |
-| 💰 Market Prices | Real-time mandi tracker |
-| 📊 Profit Predictor | Cost vs. yield modelling |
-| 🏛️ Govt Schemes | PM-KISAN, Fasal Bima, Agri-Infra Fund connector |
-
-`HTML/CSS/JS` `Tailwind` `Three.js` `Open-Meteo API`
-
----
-
-### Additional Projects
-
-| Project | Stack | What It Does |
-|---|---|---|
-| **🌉 Kanyakumari Quill Bridge** | Three.js, HTML/CSS/JS | Single-pylon suspension bridge concept — 3D model + full pitch deck |
-| **🏏 IPL 2026 Stats Platform** | React, Three.js | Venue stats, pitch modifiers, head-to-head matrices, match predictions |
-| **🔗 BizConnect** | HTML/CSS/JS | Peer-to-peer business marketplace with admin-gated registration & chat |
-| **⚗️ Chemify** | HTML/CSS/JS, SVG | Gamified periodic table explorer for chemistry education |
-| **📄 DocSum** | HTML/CSS/JS, Three.js | Drag-and-drop document dashboard with glassmorphism dark UI |
-| **🚗 Rolls-Royce Experience** | Vanilla JS | 240-frame scroll-triggered image sequence — Apple-style, no frameworks |
-
----
-
-## 🟧 Work & Achievements
-
-<table>
-<tr>
-<td width="55%">
-
-### 💼 Team Leader — Agna Private Limited
-*Industry Internship, Coimbatore*
-
-- Led a cross-functional student team from scoping to delivery
-- Translated client requirements into sprint-sized tasks
-- Resolved blockers between team & client
-- Earned: One-Month Industry Internship Certificate (Team Leader)
-
-`HTML` `CSS` `JS` `JSON` `Three.js` `PHP` `XML`
-
-</td>
-<td width="45%">
-
-### 🏆 Hackathons & Competitions
-
-| | Event | Role |
-|---|---|---|
-| 🇮🇳 | Smart India Hackathon | National-level competitor |
-| ⚡ | Hackathon 360 **2.0** (KPR) | Frontend lead + data logic |
-| ⚡ | Hackathon 360 **3.0** (KPR) | Frontend lead + data logic |
-| 🎨 | NexGen Hackathon (Hindusthan) | Frontend + UI/UX design lead |
-| 🔧 | THIRAN 2026 (Sri Eshwar) | Frontend + Backend lead |
-| 🏅 | Sri Ranganathan Hackathon | Frontend + Backend lead |
-
-</td>
-</tr>
-</table>
-
----
-
-## 🟧 Education
-
-| Degree | Institution | Status | Score |
+| # | Project | Role | Upgraded Technical Implementation Scope |
 |---|---|---|---|
-| B.E. Computer Science Engineering | Dhaanish Ahmed Institute of Technology | 🔄 Pursuing | — |
-| Diploma, Computer Science Engineering | Govt. Polytechnic College, Coimbatore | ✅ Completed | 71% |
-| Secondary (10th Grade) | K.S.C. Govt. School, Tiruppur | ✅ Completed | — |
+| **04** | **BizConnect** | Assistant Developer | Contributed to an AI-driven, peer-to-peer networking platform using Claude API loops to parse investor portfolios and instantly generate contextual profile icebreakers. |
+| **05** | **Chemify** | Assistant Developer | Designed structured SVG-interactive graphics and engineered persistent conversational logic to securely balance complex multi-turn chemical equation modules. |
+| **06** | **DocSum** | Assistant Developer | Built drag-and-drop ingestion structures into a glassmorphism dark UI dashboard, utilizing local storage strategies to securely index hierarchical text summaries. |
+| **07** | **Rolls-Royce Cinematic** | Assistant Frontend Dev | Developed asset-preloading pipelines managing a highly optimized **240-frame scroll-triggered image sequence** using vanilla JavaScript and Three.js layout overlays. |
 
 ---
 
-## 🟧 Currently Learning
+## ⚜️ Competitions & Prototyping
 
-```
-🤖  AI Fluency & Claude 101    →  Anthropic foundations coursework
-🌐  Full-Stack + Realtime      →  Supabase, REST APIs, Realtime sync
-🔧  DSA & Competitive Prog.    →  Advanced problem solving
-🏏  Cricket Analytics SaaS     →  Building a cricket data product
-```
+#### 🇮🇳 Smart India Hackathon (SIH) — National Competitor
+* Represented the core college team at India’s largest national hackathon.
+* Contributed directly to full-stack rapid prototyping solutions under intense time-gated requirements.
+
+#### ⚡ Hackathon 360
+* Designed and engineered a functional web application prototype tackling live user problem statements within a strict 24-hour window.
+* Led the frontend interface layer development and business workflow analytical logic mapping.
 
 ---
 
-## 🟧 GitHub Stats
+## ⚜️ Education & Academic Core
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=suhail3116&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=D97757&icon_color=D97757&text_color=c9d1d9&border_radius=10&rank_icon=github"/>
-&nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail3116&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=D97757&text_color=c9d1d9&border_radius=10&langs_count=8&card_width=300"/>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=suhail3116&theme=dark&hide_border=true&background=0D0D0D&ring=D97757&fire=D97757&currStreakLabel=D97757&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=ffffff&border_radius=10"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhail3116&theme=react-dark&bg_color=0d0d0d&color=D97757&line=D97757&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhail3116&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6&title=Repositories,Commits,Stars,Followers,Issues,PullRequest"/>
-</p>
+* **Bachelor of Engineering (B.E.) — Computer Science Engineering**
+  * *Focus Tracks:* Object-Oriented Programming, Full-Stack Web Architecture, Data Structures, and Algorithmic Complexity.
+* **Islamiyah Matric Higher Secondary School**
+  * Higher Secondary (12th Grade) & Secondary Education (10th Grade).
+  * History of exceptional academic analytical records and leadership involvements.
 
 ---
 
 <p align="center">
-  <em>"Build something real. Then teach someone else to run it."</em><br/>
-  <sub>— M Muhammed Suhail</sub>
+  <em>"Driven to learn, build, and empower through robust, inclusive, and systemic technology."</em><br/>
+  <sub>— M Ayisha Afreen</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:1a0a00,100:0D0D0D&height=130&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9960C,50:332603,100:1A1A1A&height=100&section=footer&animation=twinkling" width="100%"/>
 </p>
