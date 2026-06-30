@@ -278,9 +278,7 @@ public class MuhammedSuhail {
 ---
  
 ## 🟧 GitHub Stats
- 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail3116&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=D97757&text_color=c9d1d9&border_radius=10&langs_count=8&card_width=300"/>
-</div>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=suhail3116&theme=dark&hide_border=true&background=0D0D0D&ring=D97757&fire=D97757&currStreakLabel=D97757&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=ffffff&border_radius=10"/>
 </p>
