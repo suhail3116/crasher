@@ -70,6 +70,7 @@ public class MuhammedSuhail {
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+
 **AI / ML & NLP**
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -84,6 +85,7 @@ public class MuhammedSuhail {
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
+
 **Backend & Data**
 <p>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
@@ -92,6 +94,7 @@ public class MuhammedSuhail {
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
   <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logoColor=white"/>
 </p>
+
 **Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -123,9 +126,10 @@ public class MuhammedSuhail {
 - ✅ Position-based multi-ballot, candidate photo cards, "already voted" guard
 - ✅ Exportable results CSV — zero engineering needed after launch
 **The real test:** It had to work. Real people. Real day. Real votes.
- 
 </td>
 <td width="40%" align="center">
+
+`HTML` `CSS` `JavaScript` `Supabase` `Realtime` `Role-based Auth`
   
 ```
   
@@ -148,7 +152,6 @@ public class MuhammedSuhail {
 </td>
 </tr>
 </table>
-`HTML` `CSS` `JavaScript` `Supabase` `Realtime` `Role-based Auth`
  
 ---
  
@@ -167,6 +170,8 @@ public class MuhammedSuhail {
 - ✅ Puts everything in one place — no medical jargon
 </td>
 <td width="40%" align="center">
+
+`HTML` `CSS` `JavaScript` `AI-assisted logic` `Healthcare UX`
   
 ```
 
@@ -188,7 +193,6 @@ public class MuhammedSuhail {
 </td>
 </tr>
 </table>
-`HTML` `CSS` `JavaScript` `AI-assisted logic` `Healthcare UX`
  
 ---
  
