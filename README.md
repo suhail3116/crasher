@@ -10,6 +10,7 @@
   <a href="https://github.com/suhail3116"><img src="https://img.shields.io/badge/GitHub-suhail3116-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=suhail3116&style=for-the-badge&color=D97757&label=PROFILE+VIEWS"/>
 </p>
+
 ---
  
 <br/>
@@ -27,6 +28,7 @@
   <sub>📍 Coimbatore, Tamil Nadu, India &nbsp;|&nbsp; 🎓 B.E. CSE @ Dhaanish Ahmed Institute of Technology</sub>
 </p>
 <br/>
+
 ---
  
 ## 🟧 `Who Am I`
