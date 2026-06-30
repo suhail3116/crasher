@@ -110,7 +110,7 @@ public class MuhammedSuhail {
  
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 **The problem:** A 700-member organisation needed a verifiable, live election system — with non-technical staff running it solo after handoff.
  
 **What shipped:**
@@ -123,7 +123,9 @@ public class MuhammedSuhail {
  
 </td>
 <td width="40%" align="center">
+  
 ```
+  
 ┌──────────────────────┐
 │   🗳️  SecureVote     │
 │  ─────────────────   │
@@ -137,6 +139,7 @@ public class MuhammedSuhail {
 │                      │
 │  ✅ 583/700 Voted    │
 └──────────────────────┘
+  
 ```
  
 </td>
@@ -150,7 +153,7 @@ public class MuhammedSuhail {
  
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
 **The problem:** PCOD management in India is split across hospital visits, WhatsApp forwards, and guesswork.
  
 **What shipped:**
@@ -161,7 +164,9 @@ public class MuhammedSuhail {
 - ✅ Puts everything in one place — no medical jargon
 </td>
 <td width="40%" align="center">
+  
 ```
+
 ┌──────────────────────┐
 │  🩺  PCOD Care AI   │
 │  ─────────────────   │
@@ -174,6 +179,7 @@ public class MuhammedSuhail {
 │                      │
 │  🏥 Find a clinic ›  │
 └──────────────────────┘
+
 ```
  
 </td>
@@ -241,6 +247,7 @@ public class MuhammedSuhail {
 </td>
 </tr>
 </table>
+
 ---
  
 ## 🟧 Education
@@ -256,10 +263,12 @@ public class MuhammedSuhail {
 ## 🟧 Currently Learning
  
 ```
+
 🤖  AI Fluency & Claude 101    →  Anthropic foundations coursework
 🌐  Full-Stack + Realtime      →  Supabase, REST APIs, Realtime sync
 🔧  DSA & Competitive Prog.    →  Advanced problem solving
 🏏  Cricket Analytics SaaS     →  Building a cricket data product
+
 ```
  
 ---
@@ -280,6 +289,7 @@ public class MuhammedSuhail {
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=suhail3116&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6&title=Repositories,Commits,Stars,Followers,Issues,PullRequest"/>
 </p>
+
 ---
  
 <p align="center">
