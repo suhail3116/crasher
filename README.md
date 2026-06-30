@@ -126,10 +126,11 @@ public class MuhammedSuhail {
 - ✅ Position-based multi-ballot, candidate photo cards, "already voted" guard
 - ✅ Exportable results CSV — zero engineering needed after launch
 **The real test:** It had to work. Real people. Real day. Real votes.
-</td>
-<td width="40%" align="center">
 
 `HTML` `CSS` `JavaScript` `Supabase` `Realtime` `Role-based Auth`
+
+</td>
+<td width="40%" align="center">
   
 ```
   
@@ -168,10 +169,11 @@ public class MuhammedSuhail {
 - ✅ Hospital finder for Coimbatore, Chennai, etc.
 - ✅ Plain-language guide to Indian govt schemes: Ayushman Bharat, NHM, PMMVY
 - ✅ Puts everything in one place — no medical jargon
-</td>
-<td width="40%" align="center">
 
 `HTML` `CSS` `JavaScript` `AI-assisted logic` `Healthcare UX`
+
+</td>
+<td width="40%" align="center">
   
 ```
 
