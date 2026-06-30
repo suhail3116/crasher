@@ -232,6 +232,7 @@ public class MuhammedSuhail {
 - Translated client requirements into sprint-sized tasks
 - Resolved blockers between team & client
 - Earned: One-Month Industry Internship Certificate (Team Leader)
+
 `HTML` `CSS` `JS` `JSON` `Three.js` `PHP` `XML`
  
 </td>
@@ -278,9 +279,6 @@ public class MuhammedSuhail {
  
 ## 🟧 GitHub Stats
  
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=suhail3116&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=D97757&icon_color=D97757&text_color=c9d1d9&border_radius=10&rank_icon=github"/>
-&nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail3116&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=D97757&text_color=c9d1d9&border_radius=10&langs_count=8&card_width=300"/>
 </div>
 <p align="center">
@@ -288,9 +286,6 @@ public class MuhammedSuhail {
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhail3116&theme=react-dark&bg_color=0d0d0d&color=D97757&line=D97757&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhail3116&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6&title=Repositories,Commits,Stars,Followers,Issues,PullRequest"/>
 </p>
 
 ---
