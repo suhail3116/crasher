@@ -100,6 +100,7 @@ public class MuhammedSuhail {
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
+
 ---
  
 ## 🟧 Featured Projects — Built with Claude
