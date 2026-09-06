@@ -1,303 +1,385 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a0a00,100:D97757&height=200&section=header&text=M+Muhammed+Suhail&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS+Engineering+Student+%7C+Builder+%7C+Claude+Corps+Aspirant&descAlignY=60&descSize=15&descColor=D97757" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:00f0ff,100:a855f7&height=200&section=header&text=M+Muhammed+Suhail&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI+%26+Pro+Full-Stack+Developer+%7C+Claude+AI+Prompt+Architect&descAlignY=60&descSize=15&descColor=00f0ff" width="100%"/>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=D97757&center=true&vCenter=true&width=780&lines=Full-Stack+%26+AI%2FML+Builder;Ships+Real+Tools+for+Real+People;Team+Leader+%40+Agna+Private+Limited;Aspiring+Claude+Corps+Fellow+%F0%9F%A7%A1;Cricket+Analyst+%7C+Content+Creator;%22Ship+it.+Teach+it.+Repeat.%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=00F0FF&center=true&vCenter=true&width=820&lines=AI+%26+Pro+Full-Stack+Developer;17%2B+Public+Projects+%7C+700%2B+Real-World+Voters+Served;Creator+of+Sumaiya+Tailors+Client+Platform;Team+Leader+%40+Agna+Private+Limited;Claude+AI+%26+Multimodal+Prompt+Architect;3D+WebGL+%26+Interactive+Web+Engineers;%22Ship+it.+Teach+it.+Scale+it.%22" />
 </p>
+
 <p align="center">
-  <a href="mailto:cse23500492@gmail.com"><img src="https://img.shields.io/badge/Gmail-cse23500492-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://portfolio3116.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-portfolio3116.netlify.app-00F0FF?style=for-the-badge&logo=netlify&logoColor=black"/></a>
   <a href="https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/suhail3116"><img src="https://img.shields.io/badge/GitHub-suhail3116-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=suhail3116&style=for-the-badge&color=D97757&label=PROFILE+VIEWS"/>
+  <a href="mailto:cse23500492@gmail.com"><img src="https://img.shields.io/badge/Email-cse23500492-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+919043356776"><img src="https://img.shields.io/badge/Phone-+91_9043356776-10B981?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=suhail3116&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS"/>
 </p>
 
 ---
- 
+
 <br/>
-<!-- PROFILE PHOTO — circular via readme-components workaround -->
+
 <p align="center">
-  <a href="https://github.com/suhail3116">
+  <a href="https://portfolio3116.netlify.app/">
     <img src="https://avatars.githubusercontent.com/u/264096411?s=400&u=d4b1508f8560610b072fadf993280ab672423b02&v=4"
-         width="130"
-         style="border-radius:50%;"
+         width="140"
+         style="border-radius:50%; border: 3px solid #00f0ff;"
          alt="M Muhammed Suhail"/>
   </a>
 </p>
 <p align="center">
-  <strong>M Muhammed Suhail</strong><br/>
-  <sub>📍 Coimbatore, Tamil Nadu, India &nbsp;|&nbsp; 🎓 B.E. CSE @ Dhaanish Ahmed Institute of Technology</sub>
+  <strong>M MUHAMMED SUHAIL</strong><br/>
+  <sub>📍 Coimbatore, Tamil Nadu, India &nbsp;|&nbsp; 🎓 B.E. CSE @ Dhaanish Ahmed Institute of Technology</sub><br/>
+  <sub>🟢 <strong>Status:</strong> Open for Full-Stack Contracts & AI Engineering Roles</sub>
 </p>
+<p align="center">
+  <a href="https://portfolio3116.netlify.app/">🚀 Explore Live 3D Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/">💼 View LinkedIn Profile</a>
+</p>
+
 <br/>
 
 ---
- 
-## 🟧 `Who Am I`
- 
+
+## ⚡ `Who Am I`
+
 ```java
 public class MuhammedSuhail {
- 
+
     String name        = "M Muhammed Suhail";
     String location    = "Coimbatore, Tamil Nadu, India";
     String degree      = "B.E. Computer Science Engineering (Pursuing)";
-    String prior       = "Diploma in Computer Science (Completed – 71%)";
- 
-    String[] languages  = { "Java", "Python", "C", "C++", "JavaScript", "HTML", "CSS" };
-    String[] aiStack    = { "Claude / LLM-assisted dev", "spaCy", "HuggingFace", "FastAPI" };
-    String[] backend    = { "Supabase + Realtime", "MySQL", "REST APIs" };
-    String[] frontend   = { "React", "Three.js", "Tailwind CSS", "Bootstrap" };
+    String prior       = "Diploma in Computer Science Engineering (Completed – 71%)";
+    String status      = "Available for Full-Stack Contracts & AI Roles";
+
+    String[] aiStack    = { "Claude API", "Multimodal Vision AI", "System Guardrails", "FastAPI", "spaCy", "NLP Tokenization" };
+    String[] frontend   = { "React.js", "Next.js", "TypeScript", "Three.js (WebGL)", "Tailwind CSS", "Glassmorphism" };
+    String[] backend    = { "Node.js", "Express", "Supabase (RLS & Realtime)", "PostgreSQL", "MySQL", "REST APIs" };
+    String[] tools      = { "Git", "GitHub", "Netlify", "VS Code", "Agile Sprint Leadership" };
     String[] spoken     = { "English", "Tamil (Native)", "Malayalam" };
- 
-    String funFact =
-        "Led a cross-functional team as Team Leader during an industry internship, " +
-        "then single-handedly designed, built, and shipped SecureVote — " +
-        "a live electronic voting system used by 700 real members on a real election day.";
- 
-    String motto() { return "Ship something real. Then teach someone else to run it."; }
+
+    String keyAchievement = 
+        "Architected & shipped SecureVote (EV-CAST) — a live electronic voting platform " +
+        "serving 700+ members on election day with zero downtime, real-time Supabase sync, " +
+        "and custom client e-commerce platforms like Sumaiya Tailors Studio.";
+
+    String motto() { 
+        return "Build real tools for real people. Teach others to run them. Scale relentlessly."; 
+    }
 }
 ```
- 
----
- 
-## 🟧 Tech Stack
- 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
 
-**AI / ML & NLP**
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-**Frontend & 3D**
-<p>
+---
+
+## 🛠️ Tech Stack & Capabilities
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & LLM Engineering
+- **Models & APIs:** Claude API (Anthropic), Multimodal Vision AI, System Prompt Engineering
+- **Architecture:** RAG (Retrieval-Augmented Generation), Empathetic Safety Guardrails
+- **NLP & Backend AI:** Python, FastAPI, spaCy, HuggingFace, PyPDF2 Token Chunking
+
+### 🎨 Frontend & 3D Web
+- **Frameworks & Core:** React.js, Next.js, TypeScript, ES6+ JavaScript
+- **3D & Graphics:** Three.js, WebGL Particle Canvases, Frame-by-Frame Scroll Animations
+- **UI & Styling:** Tailwind CSS, Glassmorphism UI, shadcn/ui, Bootstrap 5, HTML5/CSS3
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Backend & Databases
+- **Runtime & APIs:** Node.js, Express.js, RESTful API Design
+- **Cloud & Realtime:** Supabase (Auth, Realtime DB, PostgreSQL)
+- **Databases:** PostgreSQL, Row-Level Security (RLS) Policies, MySQL, PHP
+
+### 🔧 Tools, DevOps & Leadership
+- **Version Control:** Git, GitHub Repositories & Automated Workflows
+- **Deployment:** Netlify, Vercel, Localhost Canvas Environments
+- **Methodologies:** Agile Sprint Leadership, Cross-Functional Team Management
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-**Backend & Data**
-<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logoColor=white"/>
-</p>
-
-**Tools**
-<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
- 
-## 🟧 Featured Projects — Built with Claude
- 
-> Not toy demos. These ran for real users on real days. Now building more 3D model websites — watch this space 🔨
- 
+
+## 🌟 Featured Production Projects
+
+> Real applications built for real users, business clients, and institutional events.
+
 ---
- 
-### 🗳️ SecureVote (EV-CAST) — Electronic Voting for 700 Members
- 
-<table>
-<tr>
-<td width="50%">
-**The problem:** A 700-member organisation needed a verifiable, live election system — with non-technical staff running it solo after handoff.
- 
-**What shipped:**
-- ✅ 700 unique voter credentials, each issued and tracked
-- ✅ Role-based access: voter / admin flows, fully separated
-- ✅ Supabase Realtime sync — results update live across every device
-- ✅ Position-based multi-ballot, candidate photo cards, "already voted" guard
-- ✅ Exportable results CSV — zero engineering needed after launch
-**The real test:** It had to work. Real people. Real day. Real votes.
 
-`HTML` `CSS` `JavaScript` `Supabase` `Realtime` `Role-based Auth`
+### 🧵 Sumaiya Tailors Studio — Luxury Client E-Commerce Platform
 
-</td>
-<td width="40%" align="center">
-  
-```
-  
-┌──────────────────────┐
-│   🗳️  SecureVote     │
-│  ─────────────────   │
-│  👤 Voter Login      │
-│  ──────────────────  │
-│  [Cast Your Vote]    │
-│                      │
-│  📊 Live Results     │
-│  ████████░░  67%     │
-│  █████░░░░░  42%     │
-│                      │
-│  ✅ 583/700 Voted    │
-└──────────────────────┘
-  
-```
- 
-</td>
-</tr>
-</table>
- 
----
- 
-### 🩺 PCOD Care AI — Hormonal Health Platform
- 
-<table>
-<tr>
-<td width="50%">
-**The problem:** PCOD management in India is split across hospital visits, WhatsApp forwards, and guesswork.
- 
-**What shipped:**
-- ✅ Cycle phase tracker (follicular / ovulation / luteal) with severity scoring
-- ✅ AI-styled nutrition, movement & yoga protocols — phase-adaptive
-- ✅ Hospital finder for Coimbatore, Chennai, etc.
-- ✅ Plain-language guide to Indian govt schemes: Ayushman Bharat, NHM, PMMVY
-- ✅ Puts everything in one place — no medical jargon
-
-`HTML` `CSS` `JavaScript` `AI-assisted logic` `Healthcare UX`
-
-</td>
-<td width="40%" align="center">
-  
-```
-
-┌──────────────────────┐
-│  🩺  PCOD Care AI   │
-│  ─────────────────   │
-│  📅 Day 14 of cycle  │
-│  Phase: Ovulation 🌸 │
-│                      │
-│  💧 Water: 6/8 cups  │
-│  🥗 Nutrition tips   │
-│  🧘 Yoga for today   │
-│                      │
-│  🏥 Find a clinic ›  │
-└──────────────────────┘
-
-```
- 
-</td>
-</tr>
-</table>
- 
----
- 
-### 🌾 AgriGuard — Farmer Support Platform (15 Screens)
- 
-| Feature | What it does |
-|---|---|
-| 🌱 Crop Database | 40+ crops — disease, soil, season data |
-| 🤖 AI Disease Detection | Symptom-guided diagnostic flow |
-| 🌦️ Live Weather | Open-Meteo API integration |
-| 💰 Market Prices | Real-time mandi tracker |
-| 📊 Profit Predictor | Cost vs. yield modelling |
-| 🏛️ Govt Schemes | PM-KISAN, Fasal Bima, Agri-Infra Fund connector |
- 
-`HTML/CSS/JS` `Tailwind` `Three.js` `Open-Meteo API`
- 
----
- 
-### Additional Projects
- 
-| Project | Stack | What It Does |
-|---|---|---|
-| **🌉 Kanyakumari Quill Bridge** | Three.js, HTML/CSS/JS | Single-pylon suspension bridge concept — 3D model + full pitch deck |
-| **🏏 IPL 2026 Stats Platform** | React, Three.js | Venue stats, pitch modifiers, head-to-head matrices, match predictions |
-| **🔗 BizConnect** | HTML/CSS/JS | Peer-to-peer business marketplace with admin-gated registration & chat |
-| **⚗️ Chemify** | HTML/CSS/JS, SVG | Gamified periodic table explorer for chemistry education |
-| **📄 DocSum** | HTML/CSS/JS, Three.js | Drag-and-drop document dashboard with glassmorphism dark UI |
-| **🚗 Rolls-Royce Experience** | Vanilla JS | 240-frame scroll-triggered image sequence — Apple-style, no frameworks |
- 
----
- 
-## 🟧 Work & Achievements
- 
 <table>
 <tr>
 <td width="55%">
-### 💼 Team Leader — Agna Private Limited
-*Industry Internship, Coimbatore*
- 
-- Led a cross-functional student team from scoping to delivery
-- Translated client requirements into sprint-sized tasks
-- Resolved blockers between team & client
-- Earned: One-Month Industry Internship Certificate (Team Leader)
 
-`HTML` `CSS` `JS` `JSON` `Three.js` `PHP` `XML`
- 
+**Domain:** Bespoke Blouse Stitching, Maggam Work & Saree Pre-Pleating  
+**Client:** Sumaiya Tailors Studio  
+**Live Site:** [sumaiya-tailors.netlify.app](https://sumaiya-tailors.netlify.app/)  
+**GitHub:** [suhail3116/ST-clientPage](https://github.com/suhail3116/ST-clientPage)
+
+**What Shipped:**
+- 💎 **Client E-Commerce Web App:** Built a luxury boutique tailoring application showcasing custom blouse measurement guides, zardosi maggam galleries, and saree pre-pleating services.
+- 📱 **Direct WhatsApp Integration:** One-click booking flows routing customer measurements and order inquiries straight to the studio's WhatsApp.
+- 🎨 **Responsive UI:** Custom dark/gold aesthetic with smooth animations built for non-technical users and boutique clients.
+
+`React` `JavaScript` `Tailwind CSS` `Netlify` `WhatsApp API`
+
 </td>
-<td width="45%">
-### 🏆 Hackathons & Competitions
- 
-| | Event | Role |
-|---|---|---|
-| 🇮🇳 | Smart India Hackathon | National-level competitor |
-| ⚡ | Hackathon 360 **2.0** (KPR) | Frontend lead + data logic |
-| ⚡ | Hackathon 360 **3.0** (KPR) | Frontend lead + data logic |
-| 🎨 | NexGen Hackathon (Hindusthan) | Frontend + UI/UX design lead |
-| 🔧 | THIRAN 2026 (Sri Eshwar) | Frontend + Backend lead |
-| 🏅 | Sri Ranganathan Hackathon | Frontend + Backend lead |
- 
+<td width="45%" align="center">
+
+```
+┌───────────────────────────┐
+│   👗 SUMAIYA TAILORS      │
+│  ───────────────────────  │
+│  ✂️ Custom Measurements   │
+│  ✨ Zardosi Maggam Work   │
+│  🥻 Saree Pre-Pleating    │
+│                           │
+│  [📱 Stitching Inquiry]   │
+│  ➜ Sent directly via      │
+│     WhatsApp Business     │
+└───────────────────────────┘
+```
+
 </td>
 </tr>
 </table>
 
 ---
- 
-## 🟧 Education
- 
-| Degree | Institution | Status | Score |
+
+### 🗳️ EV-CAST / SecureVote — Institutional E-Voting Platform (700+ Voters)
+
+<table>
+<tr>
+<td width="55%">
+
+**Domain:** Civic Tech & Secure Electronic Voting  
+**Scale:** Tested & Deployed for 700+ Active Voters  
+**GitHub:** [suhail3116/voting](https://github.com/suhail3116/voting)
+
+**What Shipped:**
+- 🔒 **Row-Level Security (RLS):** Built on Supabase PostgreSQL with strict RLS policies, preventing double-voting and unauthorized access.
+- ⚡ **Real-Time DB Sync:** Live updates across all voter & admin devices during elections.
+- 👥 **Multi-Ballot Auth:** Voter vs. Staff role separation, candidate photo cards, position-based voting, and instant CSV result export.
+
+`JavaScript` `HTML5` `CSS3` `Supabase Auth` `PostgreSQL` `Realtime DB`
+
+</td>
+<td width="45%" align="center">
+
+```
+┌───────────────────────────┐
+│     🗳️ EV-CAST VOTING     │
+│  ───────────────────────  │
+│  👤 Voter Auth & Creds    │
+│  📊 Live Results Sync     │
+│  ████████░░ 68% Candidate A│
+│  █████░░░░░ 42% Candidate B│
+│                           │
+│  ✅ 612 / 700 Voted       │
+└───────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚗 Rolls-Royce Cinematic 3D Web Experience
+
+<table>
+<tr>
+<td width="55%">
+
+**Domain:** Immersive WebGL 3D Interactive Showcase  
+**Live Site:** [3D Scrolling Experience](https://github.com/suhail3116/3d-scrolling-website)  
+**GitHub:** [suhail3116/3d-scrolling-website](https://github.com/suhail3116/3d-scrolling-website)
+
+**What Shipped:**
+- 🏎️ **Scroll-Driven 3D Engine:** WebGL particle canvas featuring 60fps frame-by-frame scroll animations.
+- ✨ **Glassmorphism UI:** Apple-style luxury presentation with custom cursor tracking and hardware-accelerated CSS transforms.
+
+`Vanilla JS` `Three.js` `WebGL` `CSS Glassmorphism` `HTML5`
+
+</td>
+<td width="45%" align="center">
+
+```
+┌───────────────────────────┐
+│  🚗 ROLLS-ROYCE 3D WEB   │
+│  ───────────────────────  │
+│  🌌 WebGL Particle Canvas │
+│  ⚡ 60 FPS Render Loop    │
+│  📜 Scroll Shader FX     │
+│  💎 Glassmorphism Shell  │
+└───────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌾 AgriGuard — AI Plant Disease Analysis & Detection System
+
+| Feature | Technical Implementation |
+|---|---|
+| 🤖 **Claude Vision AI Engine** | Analyzes crop leaf photos to detect plant diseases instantly |
+| 💊 **Remedial JSON Generator** | Generates structured organic & chemical treatment instructions |
+| 🌿 **Localized AgriTech** | Tailored for Tamil Nadu farmers with crop-wise diagnostic guides |
+| 🌐 **Repository** | [suhail3116/agrigaurd](https://github.com/suhail3116/agrigaurd) |
+
+`Python` `Claude API (Vision)` `Multimodal AI` `OpenCV` `JavaScript`
+
+---
+
+### 🩺 PCOD Care AI — Empathetic Health Guidance Portal
+
+| Feature | Technical Implementation |
+|---|---|
+| 🌸 **Cycle & Symptom Tracker** | Follicular / Ovulation / Luteal phase tracking & risk assessment |
+| 🤖 **Claude Prompt Chains** | Multi-turn conversational flow with strict non-diagnostic medical guardrails |
+| 🏥 **Coimbatore Clinic Finder** | Integrated local healthcare clinic directory & Indian govt health schemes guide |
+| 🌐 **Repository** | [suhail3116/pcod](https://github.com/suhail3116/pcod) |
+
+`Python` `Claude API (Anthropic)` `FastAPI` `Prompt Engineering`
+
+---
+
+## 📁 Complete Public Repositories Catalog (17 Repos)
+
+| Project | Domain / Category | Tech Stack | Key Highlights | Link |
+|---|---|---|---|---|
+| **👗 Sumaiya Tailors** | Client E-Commerce | React, Tailwind, WhatsApp API | Bespoke tailoring web app with measurement forms & WhatsApp booking | [Repo](https://github.com/suhail3116/ST-clientPage) \| [Live](https://sumaiya-tailors.netlify.app/) |
+| **🗳️ EV-CAST / Voting** | Civic Tech & Security | JS, Supabase, PostgreSQL RLS | Institutional electronic voting platform serving 700+ real voters | [Repo](https://github.com/suhail3116/voting) |
+| **🚗 Rolls-Royce 3D** | Frontend & 3D Web | Three.js, WebGL, Glassmorphism | WebGL 3D particle canvas with scroll-driven shaders (60 FPS) | [Repo](https://github.com/suhail3116/3d-scrolling-website) |
+| **🌾 AgriGuard AI** | Computer Vision & AI | Python, Claude Vision, OpenCV | Leaf disease detection & structured remedial JSON for farmers | [Repo](https://github.com/suhail3116/agrigaurd) |
+| **🩺 PCOD Care AI** | Healthcare AI | Python, Claude API, FastAPI | Empathetic diagnostic assistant with system prompt safety guardrails | [Repo](https://github.com/suhail3116/pcod) |
+| **🏏 IPL Analyzer** | Data Analytics | Python, JS, REST API | Statistical breakdowns, player comparisons & IPL match insights | [Repo](https://github.com/suhail3116/ipl-analyzer) |
+| **📄 DocSum** | NLP & Productivity | Python, Claude API, PyPDF2 | Chunked tokenization pipeline for PDF hierarchical summaries | [Repo](https://github.com/suhail3116/docsum) |
+| **⚗️ Chemify** | STEM EdTech AI | React, Claude API, 3D Models | Visual chemistry companion for reaction mechanisms & stoichiometry | [Repo](https://github.com/suhail3116/Chemify) |
+| **👑 Queenathon** | Event Tech | JS, HTML5, CSS3 | Hackathon competition portal with registration & judge criteria | [Repo](https://github.com/suhail3116/queenathon) |
+| **📜 Certificate Editor** | Web Tool | JS, Canvas API, HTML5 | WYSIWYG certificate generator with CSV batch export | [Repo](https://github.com/suhail3116/internship-certificate-editor) |
+| **🎯 Quiz-Mastery** | EduTech Web App | React, JS, CSS3 | Gamified testing platform with real-time timers & score analytics | [Repo](https://github.com/suhail3116/Quiz-Mastery) |
+| **📚 studyVerse** | Full-Stack Platform | React, Node.js, Express, Tailwind | Digital student workspace with shared notes hub & task boards | [Repo](https://github.com/suhail3116/studyVerse) |
+| **💻 Editors-Repo** | Developer Tool | TypeScript, Monaco, DOM API | In-browser code playground with split-pane live preview | [Repo](https://github.com/suhail3116/Editors-Repo) |
+| **🌌 Hawkins Retro** | Creative Frontend | JS, Keyframe FX, Audio API | Stranger Things CRT scanline theme with interactive easter eggs | [Repo](https://github.com/suhail3116/hawkins-site) |
+| **🏛️ S-Voting** | Web Security | JS, HTML5, Auth Handlers | Student council election portal with ID verification | [Repo](https://github.com/suhail3116/s-voting) |
+| **🤝 BizConnect / Biscom**| Corporate AI Portal | Node.js, Express, Claude API | AI co-founder matchmaker & proposal generation engine | [Repo](https://github.com/suhail3116/biscom) |
+| **🎮 Crasher** | Canvas 2D Game | JS, Canvas 2D API | Arcade web game engine with 60 FPS collision benchmark | [Repo](https://github.com/suhail3116/crasher) |
+
+---
+
+## 💼 Work Experience & Leadership
+
+<table>
+<tr>
+<td width="100%">
+
+### 👨‍💼 Team Leader — Agna Private Limited
+*Industry Internship, Coimbatore, Tamil Nadu*
+
+- **Cross-Functional Leadership:** Led a team of student developers from project scoping to client delivery.
+- **Sprint & Backlog Management:** Translated complex client specifications into actionable sprint tasks and conducted code reviews.
+- **Client & Technical Resolution:** Served as primary technical contact, resolving technical blockers between engineering teams and stakeholders.
+- **Credential:** Earned official *One-Month Industry Internship Certificate (Team Leader)*.
+
+`HTML5` `CSS3` `JavaScript` `Three.js` `PHP` `Agile Leadership`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Hackathons & Technical Recognition
+
+| Flag | Event / Competition | Organiser / Institution | Role & Achievement |
 |---|---|---|---|
-| B.E. Computer Science Engineering | Dhaanish Ahmed Institute of Technology | 🔄 Pursuing | — |
-| Diploma, Computer Science Engineering | Govt. Polytechnic College, Coimbatore | ✅ Completed | 71% |
-| Secondary (10th Grade) | K.S.C. Govt. School, Tiruppur | ✅ Completed | — |
- 
----
- 
-## 🟧 Currently Learning
- 
-```
-
-🤖  AI Fluency & Claude 101    →  Anthropic foundations coursework
-🌐  Full-Stack + Realtime      →  Supabase, REST APIs, Realtime sync
-🔧  DSA & Competitive Prog.    →  Advanced problem solving
-🏏  Cricket Analytics SaaS     →  Building a cricket data product
-
-```
- 
----
- 
-## 🟧 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=suhail3116&theme=dark&hide_border=true&background=0D0D0D&ring=D97757&fire=D97757&currStreakLabel=D97757&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=ffffff&border_radius=10"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhail3116&theme=react-dark&bg_color=0d0d0d&color=D97757&line=D97757&point=ffffff&area=true&hide_border=true" width="100%"/>
-</p>
+| 🇮🇳 | **Smart India Hackathon (SIH)** | Government of India / SIH Committee | **National Finalist** (Solved civic problem statement in 36-hr sprint) |
+| ⚡ | **Hackathon 360 2.0** | KPR Institute of Engineering & Tech | **Frontend Lead & Data Logic** |
+| ⚡ | **Hackathon 360 3.0** | KPR Institute of Engineering & Tech | **Frontend Lead & Data Logic** |
+| 🎨 | **NexGen Hackathon** | Hindusthan College of Engineering | **UI/UX & Frontend Lead** |
+| 🔧 | **THIRAN 2026** | Sri Eshwar College of Engineering | **Full-Stack Project Lead** |
+| 🏅 | **Sri Ranganathan Hackathon** | Sri Ranganathan Institute of Tech | **Frontend & Backend Lead** |
 
 ---
- 
+
+## 📜 Verified Licenses & Certifications
+
+- 🤖 **Claude AI & Multimodal Prompt Engineering** — Anthropic / CodePath Track (*Credential ID: MS-AI-88392*)
+- 💻 **Full-Stack Web Development & Modern React** — Professional Web Engineering (*Credential ID: MS-FS-94021*)
+- 🛡️ **Agile Project Leadership & Software Delivery** — Agna Private Limited Internship (*Credential ID: AGNA-LEAD-2024*)
+- 🐍 **Python Data Science & NLP Automation** — Advanced Competency (*Credential ID: MS-PY-73019*)
+- 🇮🇳 **Smart India Hackathon (SIH) National Finalist** — Govt. of India (*Credential ID: SIH-NAT-FINALIST*)
+
+*All certificates are verified and linked on [LinkedIn Profile](https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/).*
+
+---
+
+## 🎓 Education & Background
+
+| Degree / Course | Institution | Location | Status / Score |
+|---|---|---|---|
+| **B.E. Computer Science Engineering** | Dhaanish Ahmed Institute of Technology | Coimbatore, TN | 🔄 Pursuing (Current Student) |
+| **Diploma in Computer Science Engineering** | Govt. Polytechnic College | Coimbatore, TN | ✅ Completed (71%) |
+| **Secondary Schooling (10th Grade)** | K.S.C. Govt. High School | Tiruppur, TN | ✅ Completed |
+
+---
+
+## 📈 GitHub Activity & Stats
+
 <p align="center">
-  <em>"Build something real. Then teach someone else to run it."</em><br/>
-  <sub>— M Muhammed Suhail</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=suhail3116&theme=dark&hide_border=true&background=0B0F19&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=ffffff&border_radius=10"/>
 </p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,50:1a0a00,100:0D0D0D&height=130&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=suhail3116&show_icons=true&theme=react-dark&bg_color=0b0f19&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&border_color=00f0ff33&hide_border=false" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail3116&layout=compact&theme=react-dark&bg_color=0b0f19&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&border_color=00f0ff33&hide_border=false" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhail3116&theme=react-dark&bg_color=0b0f19&color=00F0FF&line=00F0FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://portfolio3116.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_Developer_Portfolio-portfolio3116.netlify.app-00F0FF?style=for-the-badge&logo=netlify&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/">
+    <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-Muhammed_Suhail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>"Build real tools for real people. Teach others to run them. Scale relentlessly."</em><br/>
+  <sub>© 2026 M MUHAMMED SUHAIL (@suhail3116)</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:00f0ff,100:0B0F19&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
