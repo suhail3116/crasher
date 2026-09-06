@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:00f0ff,100:a855f7&height=200&section=header&text=M+Muhammed+Suhail&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI+%26+Pro+Full-Stack+Developer+%7C+Claude+AI+Prompt+Architect&descAlignY=60&descSize=15&descColor=00f0ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:00f0ff,100:a855f7&height=200&section=header&text=M+Muhammed+Suhail&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI+and+Pro+Full-Stack+Developer+%7C+Claude+AI+Prompt+Architect&descAlignY=60&descSize=15&descColor=00f0ff" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=00F0FF&center=true&vCenter=true&width=820&lines=AI+%26+Pro+Full-Stack+Developer;17%2B+Public+Projects+%7C+700%2B+Real-World+Voters+Served;Creator+of+Sumaiya+Tailors+Client+Platform;Team+Leader+%40+Agna+Private+Limited;Claude+AI+%26+Multimodal+Prompt+Architect;3D+WebGL+%26+Interactive+Web+Engineers;%22Ship+it.+Teach+it.+Scale+it.%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=800&color=00F0FF&center=true&vCenter=true&width=820&lines=AI+and+Pro+Full-Stack+Developer;17%2B+Public+Projects+%7C+700%2B+Real-World+Voters+Served;Creator+of+Sumaiya+Tailors+Client+Platform;Team+Leader+%40+Agna+Private+Limited;Claude+AI+and+Multimodal+Prompt+Architect;3D+WebGL+and+Interactive+Web+Engineers;%22Ship+it.+Teach+it.+Scale+it.%22" />
 </p>
 
 <p align="center">
