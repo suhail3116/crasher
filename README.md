@@ -437,12 +437,17 @@ Corporate AI networking portal matching founders with investors.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhail3116&show_icons=true&theme=react-dark&bg_color=0b0f19&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&border_color=00f0ff33&hide_border=false" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhail3116&layout=compact&theme=react-dark&bg_color=0b0f19&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&border_color=00f0ff33&hide_border=false" width="49%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=suhail3116&show_icons=true&theme=react-dark&bg_color=0b0f19&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&border_color=00f0ff33&hide_border=false" width="49%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=suhail3116&layout=compact&theme=react-dark&bg_color=0b0f19&title_color=00f0ff&icon_color=00f0ff&text_color=ffffff&border_color=00f0ff33&hide_border=false" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhail3116&theme=react-dark&bg_color=0b0f19&color=00F0FF&line=00F0FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suhail3116&theme=2077" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suhail3116&theme=2077" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00F0FF/suhail3116" alt="M Muhammed Suhail Contribution Heatmap" width="100%"/>
 </p>
 
 ---
