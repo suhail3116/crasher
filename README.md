@@ -10,6 +10,7 @@
   <a href="https://portfolio3116.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-portfolio3116.netlify.app-00F0FF?style=for-the-badge&logo=netlify&logoColor=black"/></a>
   <a href="https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/suhail3116"><img src="https://img.shields.io/badge/GitHub-suhail3116-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://portfolio3116.netlify.app/"><img src="https://img.shields.io/badge/📄_Resume-Download_PDF-00F0FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/></a>
   <a href="mailto:cse23500492@gmail.com"><img src="https://img.shields.io/badge/Email-cse23500492-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="tel:+919043356776"><img src="https://img.shields.io/badge/Phone-+91_9043356776-10B981?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=suhail3116&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS"/>
@@ -34,7 +35,8 @@
 </p>
 <p align="center">
   <a href="https://portfolio3116.netlify.app/">🚀 Explore Live 3D Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/">💼 View LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/">💼 View LinkedIn Profile</a> &nbsp;•&nbsp;
+  <a href="https://portfolio3116.netlify.app/">📄 View Resume</a>
 </p>
 
 <br/>
@@ -117,6 +119,65 @@ public class MuhammedSuhail {
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+---
+
+## 📌 Top Pinned Repositories
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+#### 🧵 [ST-clientPage](https://github.com/suhail3116/ST-clientPage)
+**Sumaiya Tailors Web App**  
+Luxury boutique tailoring client site with custom blouse forms & WhatsApp booking.  
+`React` `Tailwind` `WhatsApp API`
+
+</td>
+<td width="33%" valign="top">
+
+#### 🗳️ [voting](https://github.com/suhail3116/voting)
+**EV-CAST E-Voting**  
+Institutional electronic voting platform serving 700+ voters with Supabase RLS.  
+`JavaScript` `Supabase` `PostgreSQL`
+
+</td>
+<td width="33%" valign="top">
+
+#### 🚗 [3d-scrolling-website](https://github.com/suhail3116/3d-scrolling-website)
+**Rolls-Royce 3D Web**  
+WebGL particle canvas featuring 60fps frame-by-frame scroll animations.  
+`Three.js` `WebGL` `CSS Glassmorphism`
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+#### 🌾 [agrigaurd](https://github.com/suhail3116/agrigaurd)
+**AgriGuard Vision AI**  
+Crop leaf disease analysis & diagnostic remedial JSON using Claude Vision AI.  
+`Python` `Claude Vision` `OpenCV`
+
+</td>
+<td width="33%" valign="top">
+
+#### 🩺 [pcod](https://github.com/suhail3116/pcod)
+**PCOD Care AI**  
+Medical health assistant & empathetic AI diagnostic guidance portal.  
+`Python` `Claude API` `FastAPI`
+
+</td>
+<td width="33%" valign="top">
+
+#### 🤝 [biscom](https://github.com/suhail3116/biscom)
+**BizConnect AI Portal**  
+Corporate AI networking portal matching founders with investors.  
+`Node.js` `Express` `Claude API`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -349,6 +410,26 @@ public class MuhammedSuhail {
 
 ---
 
+## 🤝 Let's Connect & Collaborate
+
+<p align="center">
+  Interested in discussing AI engineering, full-stack web development, client contracts, or technical collaborations?
+</p>
+
+<p align="center">
+  <a href="https://portfolio3116.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-portfolio3116.netlify.app-00F0FF?style=for-the-badge&logo=netlify&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Muhammed_Suhail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:cse23500492@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-cse23500492@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 📈 GitHub Activity & Stats
 
 <p align="center">
@@ -365,15 +446,6 @@ public class MuhammedSuhail {
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://portfolio3116.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Visit_Developer_Portfolio-portfolio3116.netlify.app-00F0FF?style=for-the-badge&logo=netlify&logoColor=black"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammed-suhail-4a0a9936b/">
-    <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-Muhammed_Suhail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 <p align="center">
   <em>"Build real tools for real people. Teach others to run them. Scale relentlessly."</em><br/>
